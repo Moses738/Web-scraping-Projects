@@ -1,0 +1,542 @@
+,Model,Buy_Year,Location,Engine_CC,No_of_Owners,KMs_Run,price,Date_of_posting,Brand
+0,Davidson Street 750,2020," Chennai, Tamil Nadu",750,Single Owner,5000,535000,2022-09-09,Harley Davidson
+1,Avenger 220 DTS-i,2014," Pune, Maharashtra",220,Single Owner,50000,45000,2022-09-09,Bajaj
+2,Enfield Classic 350,2015," Gurgaon, Haryana",346,Single Owner,8600,130000,2022-09-09,Royal Enfield
+3,RC 200,2019," Mumbai, Maharashtra",200,Single Owner,9500,140000,2022-09-09,KTM
+4,FZ-S,2017," New Delhi, Delhi",153,Single Owner,34000,50000,2022-09-09,Yamaha
+5,Enfield Thunderbird 350,2014," Pune, Maharashtra",346,Single Owner,35000,120000,2022-09-09,Royal Enfield
+6,XPulse 200 BS6,2020," Punalur, Kollam, Kerala",200,Single Owner,12500,110000,2022-09-09,Hero
+7,Roadster Dark,2022," Hyderabad, Telangana",334,Single Owner,973,200000,2022-09-09,Yezdi
+8,CB Unicorn 160,2016," Hyderabad, Telangana",162,Single Owner,17000,60000,2022-08-09,Honda
+9,Enfield Classic 350,2014," Ghaziabad, Uttar Pradesh",346,Single Owner,70000,95000,2022-09-09,Royal Enfield
+10,CB300R,2019, Chandigarh,300,Single Owner,10000,220000,2022-08-09,Honda
+11,CBR 250R ABS,2013," Greater Noida, Uttar Pradesh",250,Single Owner,21343,80000,2022-08-09,Honda
+12,Svartpilen 250 2020,2020," Mumbai, Maharashtra",250,Single Owner,5500,180000,2022-08-09,Husqvarna
+13,Enfield Classic 350,2019," Gurgaon, Haryana",346,Single Owner,40000,120000,2022-08-09,Royal Enfield
+15,Svartpilen 250 2020,2021," New Delhi, Delhi",250,Single Owner,350,180000,2022-07-09,Husqvarna
+16,Enfield Classic 350,2016," Hyderabad, Telangana",346,Single Owner,34000,120000,2022-07-09,Royal Enfield
+17,Enfield Thunderbird X 350,2018," Bangalore, Karnataka",346,Single Owner,26000,170000,2022-07-09,Royal Enfield
+18,390 Adventure,2020," Kolhapur, Maharashtra",391,Single Owner,12750,340000,2022-07-09,KTM
+19,Unicorn 160 BS6,2022," Chennai, Tamil Nadu",162,Single Owner,7500,100000,2022-08-09,Honda
+20,G 310 R,2022," Hyderabad, Telangana",313,Single Owner,19000,325000,2022-06-09,BMW
+21,Avenger Street 220 BS6,2021, Delhi,220,Single Owner,3200,115000,2022-06-09,Bajaj
+22,Davidson Superlow,2012, Chandigarh,883,Single Owner,11000,315000,2022-06-09,Harley Davidson
+23,Mojo UT 300,2017," Kaithal, Haryana",300,Single Owner,47000,130000,2022-06-09,Mahindra
+24,Pulsar 200 NS,2013," Noida, Uttar Pradesh",199,Single Owner,48783,54000,2022-06-09,Bajaj
+25,XBlade BS6,2021," Mumbai, Maharashtra",160,Single Owner,3300,105000,2022-09-09,Honda
+26,FZ-S FI V3,2019," Ghaziabad, Uttar Pradesh",149,Single Owner,9300,80000,2022-08-09,Yamaha
+27,Enfield Classic 350,2012," Ahmedabad, Gujarat",346,Single Owner,41000,90000,2022-06-09,Royal Enfield
+28,Dominar 400 ABS BS6,2019," Pune, Maharashtra",400,Single Owner,24000,160000,2022-06-09,Bajaj
+29,Enfield Thunderbird TwinSpark 350,2016," New Delhi, Delhi",346,Single Owner,13800,125000,2022-06-09,Royal Enfield
+30,Gixxer SF,2019," Gurgaon, Haryana",155,Single Owner,9100,100000,2022-06-09,Suzuki
+31,FZ-S FI V2,2016," Kanchipuram, Tamil Nadu",149,Single Owner,93000,48998,2022-06-09,Yamaha
+32,Fazer,2011," Bangalore, Karnataka",153,Single Owner,39000,50000,2022-05-09,Yamaha
+33,FZ-S FI V3 BS6,2021," Pune, Maharashtra",149,Single Owner,5700,110000,2022-05-09,Yamaha
+34,FZ-X,2022," Guwahati, Assam",150,Single Owner,2315,125000,2022-05-09,Yamaha
+35,Dominar 400 ABS BS6,2018," Gurgaon, Haryana",400,Single Owner,8000,120000,2022-06-09,Bajaj
+36,YZF R15 V3 BS6,2021, Jharkhand,155,Single Owner,7500,125000,2022-05-09,Yamaha
+37,Davidson Street Rod,2019," East Medinipur, West Bengal",749,Single Owner,2900,555000,2022-07-09,Harley Davidson
+38,Enfield Continental GT 650 Twin,2022," Bardhaman, West Bengal",535,Single Owner,1800,330000,2022-05-09,Royal Enfield
+39,Enfield Thunderbird 500,2015, Chandigarh,499,Single Owner,18000,120000,2022-05-09,Royal Enfield
+40,Pulsar NS 160 BS6,2021," Kanpur Nagar, Uttar Pradesh",160,Single Owner,12000,120000,2022-10-09,Bajaj
+41,Imperiale 400 BS6,2022," Ernakulam, Kerala",400,Single Owner,8200,230000,2022-10-09,Benelli
+42,Apache RTR 160 4V,2018," Jaipur, Rajasthan",160,Single Owner,4500,60000,2022-10-09,TVS
+43,Enfield Himalayan,2016," Jaipur, Rajasthan",411,Single Owner,5000,175000,2022-09-09,Royal Enfield
+44,Enfield Classic Chrome,2016," Chennai, Tamil Nadu",499,Single Owner,23700,135000,2022-09-09,Royal Enfield
+45,Pulsar 150 DTSi,2015," Dibrugarh, Assam",150,Single Owner,43000,50000,2022-09-09,Bajaj
+46,CBR 250R,2012," New Delhi, Delhi",249,Single Owner,28000,55000,2022-09-09,Honda
+47,GS 150R,2015," Bangalore, Karnataka",150,Two,23000,55000,2022-09-09,Suzuki
+48,Enfield Classic 500,2018," Surajpur, Chhattisgarh",499,Single Owner,24000,160000,2022-09-09,Royal Enfield
+49,Enfield Himalayan BS VI,2022," New Delhi, Delhi",411,Single Owner,1450,225000,2022-08-09,Royal Enfield
+50,Enfield Classic Gunmetal Grey,2018," Chennai, Tamil Nadu",346,Single Owner,21500,160000,2022-08-09,Royal Enfield
+51,Enfield Classic 500,2016," Surat, Gujarat",499,Single Owner,26836,150000,2022-08-09,Royal Enfield
+52,forty two BS6,2020," Kolkata, West Bengal",293,Single Owner,6695,160000,2022-10-09,Jawa
+53,Enfield Classic,2017," Mumbai, Maharashtra",346,Single Owner,17000,130000,2022-10-09,Royal Enfield
+54,SZ-RR V2,2018," Cuttack, Orissa",149,Single Owner,15000,48000,2022-10-09,Yamaha
+55,Enfield Bullet 350 ES BS6,2021," Ghaziabad, Uttar Pradesh",350,Single Owner,4762,170000,2022-10-09,Royal Enfield
+56,Enfield Thunderbird 350,2015," Navi Mumbai, Maharashtra",346,Single Owner,10000,100000,2022-10-09,Royal Enfield
+57,Pulsar 180 DTSi,2011," Guwahati, Assam",180,Single Owner,27220,45000,2022-09-09,Bajaj
+58,Enfield Bullet 350 Twinspark,2011, Chandigarh,346,Single Owner,24000,80000,2022-09-09,Royal Enfield
+59,FZ-S FI V3,2019," Gir Somnath, Gujarat",149,Single Owner,29500,95000,2022-09-09,Yamaha
+60,Gixxer SF BS6,2021," Kolhapur, Maharashtra",155,Single Owner,13000,130000,2022-09-09,Suzuki
+61,V15,2017," Muzaffarnagar, Uttar Pradesh",150,Single Owner,30000,44999,2022-09-09,Bajaj
+63,CB Hornet 160R,2016," Bhubaneshwar, Orissa",162,Single Owner,31000,55000,2022-08-09,Honda
+64,Apache RR 310,2021," Chamba, Himachal Pradesh",312,Single Owner,1800,240000,2022-08-09,TVS
+65,Duke 390,2015," Pune, Maharashtra",373,Single Owner,35000,110000,2022-08-09,KTM
+66,Discover 150 S,2015," Lucknow, Uttar Pradesh",150,Single Owner,54850,45000,2022-08-09,Bajaj
+67,Enfield Himalayan,2016," Ranchi, Jharkhand",411,Single Owner,26700,145000,2022-08-09,Royal Enfield
+75,Enfield Bullet 350,2016," Alwar, Rajasthan",346,Single Owner,35500,80000,2022-07-09,Royal Enfield
+78,CB Hornet 160R,2016," Mumbai, Maharashtra",162,Two,31005,54000,2022-08-09,Honda
+81,Avenger Cruise 220 BS6,2021," Jabalpur, Madhya Pradesh",180,Single Owner,4500,110000,2022-06-09,Bajaj
+82,Enfield Interceptor 650 120th Year Anniversary Edition,2019," Pune, Maharashtra",650,Single Owner,3500,210000,2022-09-09,Royal Enfield
+83,Enfield Himalayan,2017," Bangalore, Karnataka",411,Single Owner,24700,140000,2022-09-09,Royal Enfield
+84,Ninja 300 BS6,2019," Hyderabad, Telangana",300,Single Owner,15000,275000,2022-09-09,Kawasaki
+85,Pulsar 220F BS6,2020," Aravalli, Gujarat",220,Single Owner,8500,119000,2022-09-09,Bajaj
+86,CB Unicorn 160,2020," Bareilly, Uttar Pradesh",162,Single Owner,21000,80000,2022-09-09,Honda
+87,Pulsar 150,2021," Medchal, Telangana",150,Single Owner,17755,100000,2022-09-09,Bajaj
+88,YZF R15 V3 BS6,2020," Gurgaon, Haryana",150,Single Owner,17000,130000,2022-09-09,Yamaha
+89,2021 Dominar 400,2021," Bardhaman, West Bengal",400,Single Owner,3040,240000,2022-09-09,Bajaj
+90,Gixxer SF Fi,2018," Anand, Gujarat",155,Single Owner,54000,71999,2022-09-09,Suzuki
+91,Pulsar RS 200,2017," Gurgaon, Haryana",200,Single Owner,15000,80000,2022-09-09,Bajaj
+92,Duke 200,2021," Dehradun, Utarakhand",200,Single Owner,4000,190000,2022-06-09,KTM
+93,Avenger Cruise 220,2017," Bangalore, Karnataka",220,Two,20000,65000,2022-06-09,Bajaj
+97,Enfield Thunderbird 350,2013," Chennai, Tamil Nadu",346,Single Owner,31500,85000,2022-06-09,Royal Enfield
+98,Xtreme 160R,2020," Lucknow, Uttar Pradesh",149,Single Owner,13000,90000,2022-06-09,Hero
+100,Avenger Street 220,2017," Bangalore, Karnataka",220,Single Owner,26000,85500,2022-06-09,Bajaj
+102,Duke 200,2014," Bangalore, Karnataka",200,Single Owner,13500,100000,2022-06-09,KTM
+103,Duke 390,2017," Kolhapur, Maharashtra",373,Single Owner,13000,225000,2022-06-09,KTM
+104,Perak BS6,2021," Mohali, Punjab",334,Single Owner,5660,215000,2022-06-09,Jawa
+108,Pulsar 150 DTSi,2008," Pune, Maharashtra",150,Single Owner,52000,40000,2022-06-09,Bajaj
+112,Duke 390,2019," New Delhi, Delhi",373,Single Owner,25000,220000,2022-09-09,KTM
+113,Enfield Bullet 350 ES,2021," Ghaziabad, Uttar Pradesh",346,Single Owner,500,120000,2022-09-09,Royal Enfield
+114,Enfield Thunderbird TwinSpark 350,2015," Meerut, Uttar Pradesh",346,Two,21000,85000,2022-09-09,Royal Enfield
+115,Gixxer 150,2015," New Delhi, Delhi",155,Single Owner,55000,40000,2022-09-09,Suzuki
+116,Davidson Iron 883,2016," Bangalore, Karnataka",883,Single Owner,17500,600000,2022-09-09,Harley Davidson
+117,CB Hornet 160R,2016," New Delhi, Delhi",162,Single Owner,82000,50000,2022-09-09,Honda
+118,Pulsar 150 Twin Disc,2018," Samastipur, Bihar",150,Single Owner,34351,60000,2022-09-09,Bajaj
+119,Enfield Bullet Standard 350,1989," Varanasi, Uttar Pradesh",346,Single Owner,80000,85000,2022-09-09,Royal Enfield
+120,Enfield Classic 350,2018," Jaipur, Rajasthan",346,Single Owner,26000,150000,2022-08-09,Royal Enfield
+121,Enfield Bullet Electra,2018," New Delhi, Delhi",346,Single Owner,11500,120000,2022-08-09,Royal Enfield
+122,Pulsar,2019," Bangalore, Karnataka",200,Single Owner,19000,120000,2022-06-09,Bajaj
+124,Apache RTR 160 4V,2021," Noida, Uttar Pradesh",160,Single Owner,6000,130000,2022-05-09,TVS
+125,Unicorn,2017," Unnao, Uttar Pradesh",160,Single Owner,61000,40000,2022-05-09,Honda
+126,Jawa,2019," Pune, Maharashtra",350,Single Owner,11000,147000,2022-05-09,Jawa
+128,Enfield Classic 500,2015," New Delhi, Delhi",499,Two,33000,125000,2022-05-09,Royal Enfield
+129,YZF R15 S,2018," Varanasi, Uttar Pradesh",149,Single Owner,6750,95000,2022-05-09,Yamaha
+135,Davidson Street 750,2014," Bangalore, Karnataka",749,Single Owner,9897,387000,2022-05-09,Harley Davidson
+138,Karizma R,2007," Hoshangabad, Madhya Pradesh",223,Single Owner,35000,40000,2022-05-09,Hero
+139,Enfield Bullet Standard 350,1990," Bangalore, Karnataka",346,Single Owner,37000,125000,2022-05-09,Royal Enfield
+140,Duke 200,2017," Pune, Maharashtra",200,Single Owner,28000,120000,2022-05-09,KTM
+141,Pulsar 200 NS,2018," Kolkata, West Bengal",199,Single Owner,5136,78000,2022-05-09,Bajaj
+142,Apache RTR 200 4V ABS Race Edition 2.0,2018," Coimbatore, Tamil Nadu",200,Single Owner,4200,115000,2022-08-09,TVS
+143,Avenger Cruise 220,2020," Hyderabad, Telangana",220,Single Owner,13500,85000,2022-08-09,Bajaj
+144,Enfield Classic Gunmetal Grey,2018," Hyderabad, Telangana",346,Single Owner,12000,145000,2022-08-09,Royal Enfield
+145,Duke 390,2019," Bangalore, Karnataka",373,Single Owner,22000,275000,2022-08-09,KTM
+146,Z250,2018," Dharmapuri, Tamil Nadu",250,Single Owner,45000,190000,2022-08-09,Kawasaki
+147,Pulsar 150 Twin Disc BS6,2021," East Singhbhum, Jharkhand",150,Single Owner,13000,78000,2022-08-09,Bajaj
+148,FZS 25,2019," Sangareddy, Telangana",250,Single Owner,51000,95000,2022-08-09,Yamaha
+150,Enfield Thunderbird 350,2015," Chennai, Tamil Nadu",346,Single Owner,50000,90000,2022-08-09,Royal Enfield
+151,Dominar 400 ABS BS6,2018," New Delhi, Delhi",400,Single Owner,5500,130000,2022-08-09,Bajaj
+152,Jawa,2020," Kanpur Nagar, Uttar Pradesh",300,Single Owner,2500,150000,2022-05-09,Jawa
+153,YZF R15 V3 BS6,2021," Varanasi, Uttar Pradesh",150,Single Owner,5000,150000,2022-05-09,Yamaha
+154,Enfield Bullet Standard 350,2016," Hamirpur, Himachal Pradesh",346,Single Owner,23540,100000,2022-05-09,Royal Enfield
+155,Ninja 650R,2018," New Delhi, Delhi",649,Single Owner,7700,450000,2022-08-09,Kawasaki
+156,Scrambler Dual Tone,2022," Chennai, Tamil Nadu",334,Single Owner,3250,215000,2022-05-09,Yezdi
+157,Gixxer SF,2015," Bangalore, Karnataka",155,Single Owner,30000,50000,2022-05-09,Suzuki
+158,Avenger Cruise 220,2017," Pune, Maharashtra",220,Single Owner,9000,90000,2022-05-09,Bajaj
+159,Avenger Cruise 220,2015," New Delhi, Delhi",220,Single Owner,38000,52000,2022-05-09,Bajaj
+160,Enfield Classic 350 BS VI,2020," Ghaziabad, Uttar Pradesh",350,Single Owner,22000,170000,2022-05-09,Royal Enfield
+161,Perak,2021," Dehradun, Utarakhand",350,Single Owner,3152,170000,2022-05-09,Jawa
+162,Karizma ZMR,2014," New Delhi, Delhi",223,Single Owner,38100,40000,2022-05-09,Hero
+163,FZ-S,2014," Mumbai, Maharashtra",153,Two,39400,40000,2022-05-09,Yamaha
+164,Enfield Classic 500,2018," Mumbai, Maharashtra",499,Single Owner,16000,160000,2022-08-09,Royal Enfield
+165,Enfield Thunderbird TwinSpark 350,2012," Mumbai, Maharashtra",346,Single Owner,25000,90000,2022-07-09,Royal Enfield
+166,Enfield Thunderbird 350,2009," Hyderabad, Telangana",346,Single Owner,42000,90000,2022-05-09,Royal Enfield
+167,Pulsar 200 NS,2017," Mumbai, Maharashtra",199,Single Owner,64129,80000,2022-05-09,Bajaj
+168,Xtreme 160R BS6,2022," Howrah, West Bengal",149,Single Owner,3500,120000,2022-05-09,Hero
+169,Pulsar RS 200,2015," Ghaziabad, Uttar Pradesh",200,Single Owner,40700,70000,2022-07-09,Bajaj
+170,Dominar 400 ABS BS6,2020," Sonipat, Haryana",400,Single Owner,4000,180000,2022-05-09,Bajaj
+171,Davidson Street 750,2012," Chennai, Tamil Nadu",749,Single Owner,17000,300000,2022-05-09,Harley Davidson
+172,Duke 250,2019," Thane, Maharashtra",250,Single Owner,12000,180000,2022-08-09,KTM
+173,Apache RTR 200 4V ABS Race Edition 2.0,2020," Mainpuri, Uttar Pradesh",197,Single Owner,16591,100000,2022-08-09,TVS
+174,Xtreme,2014," Pratapgarh, Rajasthan",149,Single Owner,50000,40000,2022-08-09,Hero
+175,Street Twin BS6,2020," Mumbai, Maharashtra",900,Single Owner,3750,735000,2022-08-09,Triumph
+176,V15,2016," Ahmedabad, Gujarat",150,Single Owner,20600,40000,2022-08-09,Bajaj
+177,Xtreme 200S,2019," Lucknow, Uttar Pradesh",149,Single Owner,3300,110000,2022-08-09,Hero
+179,Enfield Classic Gunmetal Grey,2019," Bokaro, Jharkhand",346,Single Owner,13000,160000,2022-08-09,Royal Enfield
+180,Pulsar 150 BS6,2020," Nizamabad, Telangana",150,Single Owner,17500,95000,2022-07-09,Bajaj
+181,Enfield Bullet Electra Twinspark,2016," New Delhi, Delhi",346,Single Owner,3600,120000,2022-07-09,Royal Enfield
+183,YZF R15 V3,2018," Bangalore, Karnataka",155,Single Owner,19337,110000,2022-05-09,Yamaha
+185,Enfield Bullet Standard 350,2018," Chennai, Tamil Nadu",346,Single Owner,25000,130000,2022-02-09,Royal Enfield
+186,Enfield Himalayan 2021,2021," Thane, Maharashtra",411,Single Owner,2060,260000,2022-02-09,Royal Enfield
+187,Enfield Thunderbird X 350,2018," Gandhinagar, Gujarat",346,Single Owner,7500,150000,2022-02-09,Royal Enfield
+188,Enfield Interceptor 650 Twin,2020," Bangalore, Karnataka",650,Single Owner,2100,298000,2022-05-09,Royal Enfield
+189,Duke 390,2017," Pune, Maharashtra",373,Single Owner,4400,190000,2022-02-09,KTM
+190,Enfield Himalayan Sleet,2020," Dhanbad, Jharkhand",411,Single Owner,23000,130000,2022-03-09,Royal Enfield
+191,Bonneville T100,2015," New Delhi, Delhi",865,Single Owner,28300,390000,2022-02-09,Triumph
+192,Hness CB350 DLX,2021," Nainital, Utarakhand",350,Single Owner,2508,198000,2022-02-09,Honda
+193,Enfield Thunderbird 350,2018," Chennai, Tamil Nadu",346,Single Owner,20000,130000,2022-02-09,Royal Enfield
+194,Enfield Bullet 350,1999," Chennai, Tamil Nadu",346,Three,60000,130000,2022-02-09,Royal Enfield
+195,Vitpilen 250 2020,2020," Gulbarga, Karnataka",250,Single Owner,8200,225000,2022-02-09,Husqvarna
+196,Enfield Classic 350,2018," New Delhi, Delhi",346,Single Owner,27000,121000,2022-02-09,Royal Enfield
+197,XPulse 200T,2019," Mainpuri, Uttar Pradesh",200,Single Owner,22500,90000,2022-02-09,Hero
+198,Enfield Bullet 350,1976," Bhavnagar, Gujarat",346,Three,5000,110000,2022-02-09,Royal Enfield
+199,forty two,2019," Mumbai, Maharashtra",293,Single Owner,11000,130000,2022-07-09,Jawa
+200,Dominar 400,2017," Pune, Maharashtra",400,Single Owner,33800,120000,2022-01-09,Bajaj
+201,SR 160 Std ABS,2020," Pune, Maharashtra",160,Single Owner,5800,90000,2022-02-09,Aprilia
+202,Enfield Bullet Electra Twinspark,2015," Pune, Maharashtra",346,Single Owner,31400,110000,2022-07-09,Royal Enfield
+204,CB Trigger,2014," Bangalore, Karnataka",150,Single Owner,59917,43500,2022-07-09,Honda
+205,Pulsar RS 200,2017," Fatehpur, Uttar Pradesh",200,Single Owner,25000,75000,2022-07-09,Bajaj
+206,Dominar 400,2017," Bangalore, Karnataka",400,Single Owner,2182,140000,2022-07-09,Bajaj
+207,Pulsar 150 DTSi,2016," New Delhi, Delhi",150,Single Owner,22000,55000,2022-07-09,Bajaj
+208,Avenger Street 150,2017," Noida, Uttar Pradesh",150,Single Owner,13926,60000,2022-07-09,Bajaj
+209,FZS-FI ABS Vintage,2021," Muzaffarnagar, Uttar Pradesh",150,Single Owner,9000,98000,2022-07-09,Yamaha
+210,Pulsar 200 NS,2014," Palghar, Maharashtra",199,Single Owner,29900,43000,2022-07-09,Bajaj
+211,Enfield Classic 350,2021," Bangalore, Karnataka",346,Single Owner,9650,170000,2022-07-09,Royal Enfield
+212,Avenger 220 DTS-i,2014," Mumbai, Maharashtra",220,Single Owner,15000,50000,2022-01-09,Bajaj
+213,CBR 250R,2012," New Delhi, Delhi",249,Single Owner,58000,60000,2022-01-09,Honda
+214,Enfield Classic 500,2017," Malappuram, Kerala",499,Single Owner,16700,110000,2022-01-09,Royal Enfield
+215,Unicorn,2013," Hyderabad, Telangana",150,Single Owner,38000,40000,2022-01-09,Honda
+216,YZF R15 S,2017," Coimbatore, Tamil Nadu",149,Single Owner,26000,110000,2022-01-09,Yamaha
+217,Pulsar 150 BS6,2022," New Delhi, Delhi",150,Single Owner,900,100000,2022-01-09,Bajaj
+218,Enfield Thunderbird TwinSpark 350,2012," New Delhi, Delhi",346,Single Owner,40000,600000,2022-01-09,Royal Enfield
+219,Svartpilen 250 2020,2021," Buldhana, Maharashtra",250,Single Owner,15000,180000,2022-01-09,Husqvarna
+220,Enfield Classic Signals Stormrider Sand,2018," Bangalore, Karnataka",346,Single Owner,24000,175000,2022-01-09,Royal Enfield
+221,TNT 300,2017, Tamil Nadu,300,Single Owner,16000,250000,2022-01-09,Benelli
+222,Enfield Classic 350,2017," Bangalore, Karnataka",346,Single Owner,6800,140000,2022-01-09,Royal Enfield
+223,Gixxer SP,2017," Kolkata, West Bengal",155,Single Owner,16020,46000,2022-01-09,Suzuki
+224,Xtreme,2014," Hyderabad, Telangana",149,Single Owner,31600,40000,2022-02-09,Hero
+225,Enfield Classic 350 BS VI,2017," Nainital, Utarakhand",349,Single Owner,55000,110000,2022-01-09,Royal Enfield
+227,Perak BS6,2022," Sukma, Chhattisgarh",350,Single Owner,3000,220000,2022-01-09,Jawa
+228,Avenger Street 160 BS6,2021," Kolhapur, Maharashtra",180,Single Owner,18500,95000,2022-01-09,Bajaj
+229,Imperiale 400 BS6,2019," Rohtak, Haryana",400,Two,13000,145000,2022-01-09,Benelli
+230,Jawa,2020," Mumbai, Maharashtra",293,Single Owner,11400,180000,2022-01-09,Jawa
+231,Enfield Classic 500,2014," Pune, Maharashtra",499,Single Owner,23000,100000,2022-01-09,Royal Enfield
+232,FZ-S FI V3,2019," Dr BR Ambedkar Konaseema, Andhra Pradesh",149,Single Owner,35000,80000,2022-07-09,Yamaha
+233,Enfield Bullet 350,1997," Bangalore, Karnataka",346,Four,12000,199000,2022-07-09,Royal Enfield
+234,Enfield Classic 500,2014," Bangalore, Karnataka",499,Single Owner,18000,120000,2022-06-09,Royal Enfield
+235,Gixxer SF BS6,2021," Gurgaon, Haryana",155,Single Owner,11000,135000,2022-06-09,Suzuki
+236,Pulsar 150 Twin Disc BS6,2020," Patiala, Punjab",150,Single Owner,20054,80000,2022-06-09,Bajaj
+238,Avenger Street 160 BS6,2020," Navi Mumbai, Maharashtra",160,Single Owner,30500,85000,2022-06-09,Bajaj
+239,Achiever,2019," Allahabad, Uttar Pradesh",149,Single Owner,28500,47000,2022-06-09,Hero
+240,Enfield Bullet Standard 350,2015," Panchkula, Haryana",346,Two,21790,100000,2022-06-09,Royal Enfield
+241,FZ25,2017," Ghaziabad, Uttar Pradesh",249,Single Owner,23800,79000,2022-06-09,Yamaha
+242,Enfield Himalayan BS VI,2021," Kolkata, West Bengal",411,Single Owner,7500,235000,2022-01-09,Royal Enfield
+243,Xtreme 160R BS6,2020," New Delhi, Delhi",149,Single Owner,15000,80000,2022-01-09,Hero
+244,Enfield Bullet 350 KS BS6,2019," Chennai, Tamil Nadu",350,Single Owner,10000,145000,2022-01-09,Royal Enfield
+245,CBR 250R ABS,2011," Thane, Maharashtra",250,Single Owner,38650,60000,2022-01-09,Honda
+246,Enfield Classic 350,2016," Dehradun, Utarakhand",346,Single Owner,46000,120000,2022-01-09,Royal Enfield
+247,Enfield Interceptor 650 Twin,2019," Pune, Maharashtra",650,Single Owner,5900,270000,2022-05-09,Royal Enfield
+248,Enfield Thunderbird TwinSpark 350,2012," New Delhi, Delhi",346,Single Owner,40000,90000,2022-01-09,Royal Enfield
+249,Pulsar 150 DTSi,2012," Varanasi, Uttar Pradesh",150,Single Owner,38000,40000,2022-01-09,Bajaj
+250,Dominar 400,2018," Thane, Maharashtra",400,Single Owner,21500,135000,2022-01-09,Bajaj
+251,Enfield Classic 350,2015," Gurgaon, Haryana",346,Two,28000,100000,2022-02-09,Royal Enfield
+252,Pulsar RS 200 ABS,2015," New Delhi, Delhi",200,Single Owner,23300,60000,2022-01-09,Bajaj
+253,Pulsar 220 DTSi,2017," Hyderabad, Telangana",220,Single Owner,21287,85000,2022-07-09,Bajaj
+254,Enfield Himalayan Sleet,2018," Mumbai, Maharashtra",411,Single Owner,5685,140000,2022-01-09,Royal Enfield
+255,FZ25,2017," Thane, Maharashtra",249,Single Owner,34539,80000,2022-01-09,Yamaha
+256,Pulsar 150 DTSi,2015," Hyderabad, Telangana",150,Single Owner,48000,48000,2022-01-09,Bajaj
+257,Vulcan S 650,2018," Mumbai, Maharashtra",650,Single Owner,564,439999,2022-05-09,Kawasaki
+258,Gixxer SF 250,2019," Hyderabad, Telangana",249,Two,8700,140000,2022-01-09,Suzuki
+259,Apache RTR 200 4V,2016," New Delhi, Delhi",197,Single Owner,42000,50000,2022-01-09,TVS
+260,390 Adventure,2021," Kangra, Himachal Pradesh",400,Single Owner,7000,325000,2022-01-09,KTM
+261,FZ-S FI V2,2016," Ahmedabad, Gujarat",149,Single Owner,40400,40000,2022-01-09,Yamaha
+262,Pulsar 200 NS,2014," Aligarh, Uttar Pradesh",199,Two,45100,49500,2022-06-09,Bajaj
+263,Pulsar 200 NS,2021," Mumbai, Maharashtra",199,Single Owner,1335,125000,2022-06-09,Bajaj
+264,V-Strom 250,2022," Raigad, Maharashtra",250,Single Owner,3100,235000,2022-06-09,Suzuki
+265,Hornet 2.0,2021," Pune, Maharashtra",184,Single Owner,19000,105000,2022-06-09,Honda
+266,Gixxer 150,2016," Kolkata, West Bengal",155,Single Owner,19000,45000,2022-06-09,Suzuki
+268,Enfield Classic 350,2013," Pune, Maharashtra",349,Single Owner,16100,88000,2022-06-09,Royal Enfield
+269,Enfield Himalayan BS VI,2020," Jamshedpur, Jharkhand",411,Single Owner,4715,180000,2022-06-09,Royal Enfield
+270,Apache RTR 160 4V BS6,2022," Chennai, Tamil Nadu",160,Single Owner,5000,120000,2022-06-09,TVS
+271,Pulsar 200 NS,2018," New Delhi, Delhi",199,Single Owner,27500,65000,2022-06-09,Bajaj
+273,Pulsar RS 200 ABS,2015," Kanpur Nagar, Uttar Pradesh",200,Single Owner,27000,97000,2022-01-09,Bajaj
+274,Dominar 400,2019," Pune, Maharashtra",400,Single Owner,14000,130000,2022-01-09,Bajaj
+275,Enfield Interceptor 650 Twin,2019," Gurgaon, Haryana",650,Single Owner,6900,250000,2022-01-09,Royal Enfield
+276,YZF R15 V2,2018," Coimbatore, Tamil Nadu",149,Single Owner,20000,90000,2022-02-09,Yamaha
+277,Enfield Interceptor 650 Twin,2022," Rajkot, Gujarat",650,Single Owner,1500,300000,2022-01-09,Royal Enfield
+278,YZF R15 V3,2021," Bangalore, Karnataka",155,Single Owner,7500,195000,2022-01-09,Yamaha
+279,Avenger Street 220,2019," Kolkata, West Bengal",220,Single Owner,11000,84000,2022-01-09,Bajaj
+280,Enfield Classic Desert Storm,2015," Chennai, Tamil Nadu",499,Single Owner,14102,154000,2022-01-09,Royal Enfield
+281,Enfield Classic 350,2016," Patna, Bihar",346,Single Owner,30000,125000,2022-03-09,Royal Enfield
+282,Gixxer SF,2016," Gurgaon, Haryana",155,Single Owner,45000,55000,2022-01-09,Suzuki
+283,Enfield Thunderbird 350,2017," Chennai, Tamil Nadu",346,Single Owner,17000,96000,2022-01-09,Royal Enfield
+284,ST7,2014," New Delhi, Delhi",678,Single Owner,16000,175000,2022-01-09,Hyosung
+285,Enfield Classic Gunmetal Grey,2018," Hisar, Haryana",346,Single Owner,10000,160000,2022-08-31,Royal Enfield
+286,Davidson Roadster,2019," Bangalore, Karnataka",1200,Single Owner,11000,850000,2022-01-09,Harley Davidson
+287,Enfield Interceptor 650 Twin,2020," Thrissur, Kerala",650,Single Owner,8000,300000,2022-08-31,Royal Enfield
+288,Enfield Thunderbird 350,2015," Pune, Maharashtra",346,Single Owner,15000,65000,2022-08-31,Royal Enfield
+289,CB Hornet 160R,2017," Kolkata, West Bengal",162,Single Owner,26179,55500,2022-08-31,Honda
+291,Duke 200,2014," Pune, Maharashtra",200,Single Owner,35000,80000,2022-08-30,KTM
+292,FZ-S FI V2,2017," Hyderabad, Telangana",149,Single Owner,44700,75000,2022-06-09,Yamaha
+294,Duke 200,2014," Ahmedabad, Gujarat",200,Three,20000,85000,2022-06-09,KTM
+295,Apache RTR 160,2020," New Delhi, Delhi",160,Single Owner,13800,95000,2022-06-09,TVS
+296,Apache RTR 200 4V,2021," Bangalore, Karnataka",197,Single Owner,9000,135000,2022-05-09,TVS
+297,Enfield Interceptor 650 Twin,2022," Gurgaon, Haryana",650,Single Owner,1046,321000,2022-05-09,Royal Enfield
+298,Dominar 400,2018," West Medinipur, West Bengal",400,Single Owner,9000,120000,2022-05-09,Bajaj
+299,R15M,2022," Ahmedabad, Gujarat",155,Single Owner,7800,200000,2022-05-09,Yamaha
+301,Pulsar 150 DTSi,2019," Lucknow, Uttar Pradesh",150,Single Owner,14000,62000,2022-05-09,Bajaj
+302,Avenger Street 160,2021," Thane, Maharashtra",160,Single Owner,12500,100000,2022-08-28,Bajaj
+303,Enfield Classic 350,2020," Panchkula, Haryana",346,Single Owner,1535,190000,2022-08-28,Royal Enfield
+304,Enfield Classic 350,2019," Hyderabad, Telangana",346,Single Owner,29650,170000,2022-08-28,Royal Enfield
+305,Bonneville T120,2017," Leh, Jammu Kashmir",1200,Two,2700,785000,2022-08-28,Triumph
+306,forty two,2019," Shimla, Himachal Pradesh",293,Single Owner,15000,100000,2022-08-28,Jawa
+307,forty two,2019," Coimbatore, Tamil Nadu",293,Single Owner,3000,190000,2022-08-28,Jawa
+308,R15 V4,2022," New Delhi, Delhi",155,Single Owner,1000,190000,2022-08-28,Yamaha
+309,Renegade Commando Classic,2018," Pune, Maharashtra",280,Single Owner,4000,150000,2022-03-09,UM
+310,FZS 25,2017," Kanyakumari, Tamil Nadu",249,Single Owner,23000,90000,2022-08-28,Yamaha
+311,Jawa Yezdi Classic,1985," Hyderabad, Telangana",250,Single Owner,1000,165000,2022-08-28,Ideal
+312,YZF R15 V3,2020," Greater Noida, Uttar Pradesh",155,Single Owner,1427,145000,2022-08-28,Yamaha
+314,CB Unicorn 160,2015," Panchkula, Haryana",162,Single Owner,26400,55000,2022-08-29,Honda
+315,Enfield Bullet 350,1996," Thrissur, Kerala",346,Single Owner,52000,130000,2022-08-30,Royal Enfield
+316,Enfield Bullet 350,2012," Bangalore, Karnataka",346,Single Owner,30000,90000,2022-08-28,Royal Enfield
+317,Enfield Bullet Standard 350,2019," Margao, Goa",346,Single Owner,6700,145000,2022-08-28,Royal Enfield
+318,Enfield Meteor 350 Supernova,2022," Raipur, Chhattisgarh",350,Single Owner,1100,230000,2022-08-28,Royal Enfield
+319,R15M,2021," Sonitpur, Assam",155,Single Owner,2600,185000,2022-08-28,Yamaha
+320,Enfield Interceptor 650 Twin,2019," Mumbai, Maharashtra",650,Single Owner,15000,250000,2022-08-28,Royal Enfield
+321,Enfield Classic Signals Stormrider Sand,2019," New Delhi, Delhi",346,Single Owner,24500,160000,2022-08-28,Royal Enfield
+322,Aquila Pro 650,2013," Pune, Maharashtra",650,Two,1800,350000,2022-05-09,Hyosung
+323,Pulsar 150,2017," Ahmedabad, Gujarat",150,Single Owner,24941,48000,2022-05-09,Bajaj
+324,Avenger Cruise 220,2015," Pune, Maharashtra",220,Single Owner,10000,60000,2022-05-09,Bajaj
+325,Enfield Bullet Electra Twinspark,2015," Pune, Maharashtra",346,Single Owner,13600,110000,2022-05-09,Royal Enfield
+326,Pulsar 150 DTSi,2019," Chennai, Tamil Nadu",150,Single Owner,16387,81000,2022-05-09,Bajaj
+327,RC 200 2020,2021," Thane, Maharashtra",200,Single Owner,8400,200000,2022-05-09,KTM
+328,forty two BS6,2020," Dehradun, Utarakhand",293,Single Owner,11000,170000,2022-05-09,Jawa
+329,YZF R15 V2,2012," Patna, Bihar",149,Single Owner,30000,52000,2022-05-09,Yamaha
+330,Apache RTR 200 4V 2022,2021," Coimbatore, Tamil Nadu",200,Single Owner,7000,140000,2022-05-09,TVS
+332,Enfield Classic 350,2014," Navi Mumbai, Maharashtra",346,Single Owner,9200,100000,2022-08-28,Royal Enfield
+333,Enfield Classic 350,2014," Bangalore, Karnataka",346,Single Owner,44000,120000,2022-08-28,Royal Enfield
+335,Xtreme 160R BS6,2020," Mysore, Karnataka",149,Single Owner,11800,80000,2022-03-09,Hero
+337,Dominar 250,2021," Kanchipuram, Tamil Nadu",250,Single Owner,27900,150000,2022-08-28,Bajaj
+338,Duke 390,2015," Mumbai, Maharashtra",373,Single Owner,14975,97500,2022-08-28,KTM
+339,Leoncino 250,2019," Thane, Maharashtra",250,Single Owner,20200,150000,2022-08-28,Benelli
+340,Enfield Thunderbird X 350,2019," Indore, Madhya Pradesh",346,Single Owner,17000,160000,2022-08-28,Royal Enfield
+341,XPulse 200 BS6,2020," Mumbai, Maharashtra",200,Single Owner,4600,100000,2022-01-09,Hero
+342,Avenger Street 160 BS6,2020," Gurgaon, Haryana",180,Single Owner,7677,85000,2022-08-29,Bajaj
+343,CBR 250R,2013," Bhopal, Madhya Pradesh",249,Single Owner,28000,80000,2022-02-09,Honda
+344,Duke 390,2017," Allahabad, Uttar Pradesh",373,Single Owner,6170,200000,2022-08-28,KTM
+345,Apache RTR 200 4V,2017," Ghaziabad, Uttar Pradesh",197,Single Owner,53000,65000,2022-08-28,TVS
+346,Enfield Classic 350,2015," Dibrugarh, Assam",346,Single Owner,17000,85000,2022-08-28,Royal Enfield
+347,Enfield Bullet Electra,2015," Mumbai, Maharashtra",350,Single Owner,13400,75000,2022-08-28,Royal Enfield
+348,CB Hornet 160R ABS,2016," Bangalore, Karnataka",162,Single Owner,23000,65000,2022-08-28,Honda
+349,Avenger Cruise 220 BS6,2020," Thane, Maharashtra",220,Single Owner,16500,130000,2022-08-31,Bajaj
+350,YZF R15 V2,2014," Hyderabad, Telangana",149,Single Owner,16000,65000,2022-08-29,Yamaha
+351,Dominar 400,2017," Kolkata, West Bengal",400,Single Owner,22000,120000,2022-08-28,Bajaj
+352,FZ FI V2,2018," Navi Mumbai, Maharashtra",149,Single Owner,18000,60000,2022-05-09,Yamaha
+353,Apache RTR 160,2012," Noida, Uttar Pradesh",160,Single Owner,25000,50000,2022-05-09,TVS
+354,Pulsar 220F,2017," Noida, Uttar Pradesh",220,Single Owner,15000,70000,2022-05-09,Bajaj
+355,G 310 GS,2021," Mumbai, Maharashtra",313,Single Owner,2481,320000,2022-05-09,BMW
+356,Pulsar 200 NS,2014," New Delhi, Delhi",199,Single Owner,46000,45000,2022-05-09,Bajaj
+357,Renegade Commando,2017," Hyderabad, Telangana",280,Single Owner,16000,125000,2022-05-09,UM
+358,Jawa,2019," Mumbai, Maharashtra",293,Single Owner,26000,120000,2022-05-09,Jawa
+359,YZF R15 V3,2018," Alwar, Rajasthan",155,Single Owner,16000,95000,2022-05-09,Yamaha
+360,Enfield Classic 350,2020," Mumbai, Maharashtra",346,Single Owner,7000,180000,2022-05-09,Royal Enfield
+361,Enfield Classic 350,2019," Mumbai, Maharashtra",346,Single Owner,360000,165000,2022-05-09,Royal Enfield
+362,Dominar 400 ABS BS6,2018," Bangalore, Karnataka",400,Single Owner,25000,145000,2022-08-26,Bajaj
+363,MT-15 BS6,2020," Hyderabad, Telangana",155,Single Owner,13000,130000,2022-08-26,Yamaha
+364,Intruder 150,2017," Chennai, Tamil Nadu",155,Single Owner,19000,65000,2022-08-26,Suzuki
+365,Perak BS6,2020," Bangalore, Karnataka",350,Single Owner,1750,280000,2022-08-26,Jawa
+366,Hornet 2.0 Repsol Edition,2021," Dhanbad, Jharkhand",185,Single Owner,10000,100000,2022-08-30,Honda
+368,Enfield Continental GT 650 Twin,2021," Chennai, Tamil Nadu",650,Single Owner,6224,280000,2022-06-09,Royal Enfield
+369,Davidson Iron 883,2018," Bellary, Karnataka",883,Single Owner,5500,850000,2022-08-30,Harley Davidson
+370,Enfield Bullet Standard 500,2014," Mumbai, Maharashtra",499,Two,28000,110000,2022-08-27,Royal Enfield
+371,Enfield Classic Stealth Black,2021," Gurgaon, Haryana",350,Single Owner,2888,190000,2022-08-26,Royal Enfield
+372,Apache,2017," Bangalore, Karnataka",200,Single Owner,13000,80000,2022-08-26,TVS
+373,Enfield Continental GT 650 Twin,2021," Chennai, Tamil Nadu",650,Single Owner,4200,290000,2022-08-09,Royal Enfield
+374,Gixxer SF,2019," Madurai, Tamil Nadu",155,Single Owner,5700,115000,2022-08-26,Suzuki
+375,Enfield Thunderbird 350,2016," Meerut, Uttar Pradesh",346,Single Owner,6000,120000,2022-08-26,Royal Enfield
+376,RC 200,2018," Mumbai, Maharashtra",200,Single Owner,11000,130000,2022-08-25,KTM
+377,Enfield Classic 350,2014," Surat, Gujarat",346,Single Owner,12000,110000,2022-08-28,Royal Enfield
+378,Enfield Classic Desert Storm,2016, Tamil Nadu,499,Single Owner,13500,130000,2022-08-25,Royal Enfield
+379,Avenger Cruise 220,2016," New Delhi, Delhi",220,Single Owner,10700,67000,2022-08-25,Bajaj
+381,Davidson Iron 883,2011," Bangalore, Karnataka",883,Single Owner,160000,400000,2022-08-25,Harley Davidson
+382,Enfield Classic Gunmetal Grey,2017," Ghaziabad, Uttar Pradesh",346,Single Owner,23578,155000,2022-05-09,Royal Enfield
+383,XPulse 200,2021," New Delhi, Delhi",200,Single Owner,35000,120000,2022-05-09,Hero
+384,Enfield Meteor 350 Supernova,2021," Nagapattinam, Tamil Nadu",350,Single Owner,5000,225000,2022-05-09,Royal Enfield
+385,Avenger Street 150,2017," Nashik, Maharashtra",150,Single Owner,19000,68000,2022-05-09,Bajaj
+386,Enfield Classic 350 BS VI,2017," Agra, Uttar Pradesh",350,Single Owner,6000,110000,2022-05-09,Royal Enfield
+387,Enfield Classic 350,2016," Dehradun, Utarakhand",346,Single Owner,22500,95000,2022-05-09,Royal Enfield
+388,Enfield Classic 350 BS VI,2017," Hyderabad, Telangana",600,Single Owner,44000,138000,2022-04-09,Royal Enfield
+389,Dominar 400 Disc,2018," Vadodara, Gujarat",400,Single Owner,35000,120000,2022-04-09,Bajaj
+390,Enfield Classic Stealth Black,2018," Imphal West, Manipur",499,Single Owner,21575,170000,2022-04-09,Royal Enfield
+391,Adventure,2021, Tamil Nadu,390,Single Owner,2850,350000,2022-04-09,KTM
+392,Pulsar RS 200 BS6,2020," Medak, Telangana",3981,Single Owner,11900,125000,2022-08-25,Bajaj
+393,Gixxer SF,2019," Kanpur Nagar, Uttar Pradesh",155,Single Owner,1024,110000,2022-08-27,Suzuki
+394,Pulsar 150 DTSi,2017," Faridabad, Haryana",150,Single Owner,52000,40000,2022-08-25,Bajaj
+396,FZ25,2018," Mumbai, Maharashtra",249,Single Owner,12000,89000,2022-08-27,Yamaha
+397,Enfield Classic 350 Single Channel BS6,2021," Rohtak, Haryana",350,Single Owner,23000,170000,2022-08-24,Royal Enfield
+398,VXL 150,2018," Lucknow, Uttar Pradesh",150,Single Owner,28000,55000,2022-08-24,Vespa
+399,forty two BS6,2020," Hyderabad, Telangana",293,Single Owner,7500,170000,2022-08-24,Jawa
+400,Enfield Classic 350 BS VI,2021," Hyderabad, Telangana",350,Single Owner,8600,200000,2022-08-25,Royal Enfield
+401,YZF R15 S,2015," Bangalore, Karnataka",149,Single Owner,24500,72000,2022-08-24,Yamaha
+402,Enfield Bullet 350,1992," Mumbai, Maharashtra",346,Single Owner,27500,135000,2022-07-09,Royal Enfield
+403,Avenger Street 220,2017," Thane, Maharashtra",220,Single Owner,10000,70000,2022-08-09,Bajaj
+404,Enfield Classic 350 BS VI,2019," Firozabad, Uttar Pradesh",350,Two,10601,149900,2022-08-24,Royal Enfield
+405,Intruder 150,2018, Haryana,155,Single Owner,55000,65000,2022-08-24,Suzuki
+406,G 310 GS - 40 Years GS Edition,2021," New Delhi, Delhi",313,Single Owner,7000,295000,2022-04-09,BMW
+407,RC 200,2016," Pune, Maharashtra",200,Single Owner,228,120000,2022-08-24,KTM
+408,MT-15,2020," Bangalore, Karnataka",155,Single Owner,8000,140000,2022-08-24,Yamaha
+409,Enfield Interceptor 650 Twin,2019," Trivandrum, Kerala",650,Single Owner,7000,275000,2022-08-24,Royal Enfield
+410,Davidson Dyna Fat Bob FXDF,2013," Bangalore, Karnataka",1585,Single Owner,13000,900000,2022-08-24,Harley Davidson
+411,Apache RTR 160,2013," Gautam Buddha Nagar, Uttar Pradesh",160,Two,51218,41000,2022-03-09,TVS
+412,Intruder 150,2018," Lucknow, Uttar Pradesh",155,Single Owner,48000,69000,2022-04-09,Suzuki
+413,Avenger Cruise 220,2015," New Delhi, Delhi",220,Single Owner,31500,40000,2022-04-09,Bajaj
+414,CB Unicorn,2015," Pune, Maharashtra",150,Single Owner,29400,58000,2022-04-09,Honda
+415,Pulsar 180 DTSi,2014," Chennai, Tamil Nadu",180,Single Owner,32000,40000,2022-04-09,Bajaj
+416,Apache RTR 160,2014," Hyderabad, Telangana",160,Single Owner,30000,48000,2022-04-09,TVS
+417,Enfield Thunderbird TwinSpark 350,2010," Chennai, Tamil Nadu",346,Single Owner,43000,60000,2022-04-09,Royal Enfield
+418,Apache RTR 160,2019," Meerut, Uttar Pradesh",160,Single Owner,11900,90000,2022-04-09,TVS
+419,Avenger 220 DTS-i,2015," Ratnagiri, Maharashtra",220,Single Owner,48000,45000,2022-04-09,Bajaj
+420,TNT 25,2017," Bangalore, Karnataka",249,Single Owner,27000,130000,2022-04-09,Benelli
+421,Discover DTSi 150,2011," Bangalore, Karnataka",144,Single Owner,15236,40000,2022-04-09,Bajaj
+423,Enfield Classic 350,2018," Hyderabad, Telangana",346,Single Owner,10000,179000,2022-08-23,Royal Enfield
+424,Enfield Thunderbird 350,2017," Dehradun, Utarakhand",346,Single Owner,24000,125000,2022-01-09,Royal Enfield
+425,Enfield Classic 350,2016," Chennai, Tamil Nadu",346,Single Owner,49000,90000,2022-08-23,Royal Enfield
+426,Pulsar 200 NS ABS,2017," Patna, Bihar",199,Single Owner,11000,65000,2022-08-23,Bajaj
+427,Enfield Meteor 350 Supernova,2021, Karnataka,348,Single Owner,2450,225000,2022-08-31,Royal Enfield
+428,Pulsar 220F,2016," Kanpur, Uttar Pradesh",220,Single Owner,19150,70000,2022-08-23,Bajaj
+429,Enfield Classic 350,2012," Bhopal, Madhya Pradesh",346,Single Owner,27892,85000,2022-08-23,Royal Enfield
+430,42 Dual Channel ABS Orion Red,2022," Itanagar, Arunachal Pradesh",293,Single Owner,1022,180000,2022-08-23,Jawa
+431,Pulsar RS 200 ABS,2016," Gurgaon, Haryana",200,Single Owner,15794,75000,2022-08-24,Bajaj
+432,Enfield Classic 500,2016," Bangalore, Karnataka",500,Single Owner,10000,150000,2022-08-23,Royal Enfield
+433,FZ-S FI V3,2019," Hyderabad, Telangana",149,Single Owner,5400,85000,2022-08-23,Yamaha
+434,Xtreme 200R,2019," Jharsuguda, Orissa",200,Single Owner,11500,55000,2022-08-23,Hero
+435,Enfield Interceptor 650 Twin,2020," Bangalore, Karnataka",650,Single Owner,3800,300000,2022-08-23,Royal Enfield
+436,Pulsar 150 Twin Disc,2018," Mahendragarh, Haryana",150,Single Owner,21000,60000,2022-08-23,Bajaj
+437,Enfield Himalayan,2018," Chennai, Tamil Nadu",411,Two,12280,150000,2022-08-23,Royal Enfield
+438,Ninja 1000SX BS6 2022,2022," Mumbai, Maharashtra",1000,Single Owner,2800,1250000,2022-08-23,Kawasaki
+439,Enfield Thunderbird 350,2007," Chennai, Tamil Nadu",346,Single Owner,50000,45000,2022-08-25,Royal Enfield
+440,Enfield Himalayan,2022," Hyderabad, Telangana",411,Single Owner,2300,199999,2022-08-23,Royal Enfield
+441,Enfield Thunderbird 350,2012," Thane, Maharashtra",346,Single Owner,18200,82500,2022-08-23,Royal Enfield
+442,Pulsar 150 Twin Disc BS6,2021," Mandi, Himachal Pradesh",150,Single Owner,6000,105000,2022-04-09,Bajaj
+443,forty two,2021," Chennai, Tamil Nadu",299,Single Owner,520,200000,2022-04-09,Jawa
+444,Enfield Thunderbird X 350,2019," Ahmednagar, Maharashtra",350,Single Owner,35042,170000,2022-04-09,Royal Enfield
+445,Duke 390 BS6,2021," Jammu, Jammu Kashmir",393,Single Owner,4300,290000,2022-04-09,KTM
+446,Roadster Dark,2022," Haridwar, Utarakhand",349,Single Owner,1700,224999,2022-03-09,Yezdi
+447,RC 390,2016," Howrah, West Bengal",373,Single Owner,13400,120000,2022-03-09,KTM
+448,CB Hornet 160R ABS,2019," Purulia, West Bengal",162,Single Owner,6500,81000,2022-03-09,Honda
+449,Rajdoot,2000," Kanpur Nagar, Uttar Pradesh",175,Single Owner,30000,70000,2022-03-09,Yamaha
+450,Pulsar RS 200 ABS,2020," New Delhi, Delhi",200,Single Owner,9000,130000,2022-03-09,Bajaj
+451,Pulsar RS 200,2017," Faridabad, Haryana",200,Single Owner,35000,55000,2022-03-09,Bajaj
+452,Apache RR 310,2018," Kolkata, West Bengal",312,Single Owner,5800,170000,2022-08-23,TVS
+453,Enfield Continental GT 535,2014," Gurgaon, Haryana",535,Single Owner,13000,168000,2022-08-23,Royal Enfield
+454,Enfield Classic Gunmetal Grey,2018," Wadakkancherry, Thrissur, Kerala",346,Single Owner,18600,120000,2022-08-23,Royal Enfield
+455,Enfield Bullet Electra,2009," Pondicherry, Pondicherry",346,Single Owner,20000,95000,2022-08-22,Royal Enfield
+456,Pulsar 220F,2019," Unnao, Uttar Pradesh",220,Single Owner,20148,110000,2022-08-31,Bajaj
+457,Enfield Thunderbird 350,2016," Kolkata, West Bengal",346,Single Owner,25000,95000,2022-08-22,Royal Enfield
+458,Enfield Bullet 350 ES BS6,2021," Sivasagar, Assam",350,Single Owner,1300,150000,2022-08-22,Royal Enfield
+459,forty two,2020," New Delhi, Delhi",293,Single Owner,12000,155000,2022-08-22,Jawa
+460,Enfield Interceptor 650 Twin,2019," Navi Mumbai, Maharashtra",650,Single Owner,12400,275000,2022-08-22,Royal Enfield
+461,Apache RTR 160 4V,2018," Karunagappalli, Kollam, Kerala",160,Single Owner,36500,63500,2022-08-23,TVS
+462,Avenger 220 DTS-i,2016," Gautam Buddha Nagar, Uttar Pradesh",220,Single Owner,20000,50000,2022-08-22,Bajaj
+463,Pulsar AS 150,2015," Bangalore, Karnataka",150,Single Owner,20611,50000,2022-08-24,Bajaj
+464,Xpulse 200 4V,2022," Hyderabad, Telangana",200,Single Owner,3500,155000,2022-08-22,Hero
+465,G 310 GS BS6,2021," Mumbai, Maharashtra",313,Single Owner,1950,355000,2022-08-22,BMW
+466,Avenger 220 DTS-i,2014," Hyderabad, Telangana",220,Single Owner,41957,51000,2022-08-22,Bajaj
+467,Enfield Thunderbird 350,2015," Bankura, West Bengal",346,Single Owner,50000,75000,2022-08-22,Royal Enfield
+468,FZ-S FI V3 BS6,2020," Chennai, Tamil Nadu",150,Single Owner,25000,80000,2022-08-22,Yamaha
+469,Pulsar 150,2015," Hyderabad, Telangana",149,Single Owner,22250,65000,2022-08-22,Bajaj
+470,Gixxer SF BS6,2021," Visakhapatnam, Andhra Pradesh",150,Single Owner,1011,125000,2022-08-22,Suzuki
+472,Enfield Classic 350 Redditch Blue,2019," Jaipur, Rajasthan",346,Single Owner,32000,140000,2022-03-09,Royal Enfield
+473,Enfield Classic Signals Airborne Blue,2021," Dehradun, Utarakhand",350,Single Owner,17000,180000,2022-03-09,Royal Enfield
+474,Avenger Cruise 220,2018," Kolkata, West Bengal",220,Single Owner,51000,80000,2022-03-09,Bajaj
+475,Apache RTR 180 ABS,2018," Mysore, Karnataka",180,Single Owner,24829,85000,2022-03-09,TVS
+476,FZ FI V2,2018," Chennai, Tamil Nadu",149,Single Owner,46000,75000,2022-03-09,Yamaha
+477,MT-15 BS6,2020," Kannur, Kerala",155,Single Owner,13700,155000,2022-03-09,Yamaha
+478,Enfield Bullet Standard 350,2019," Chennai, Tamil Nadu",346,Single Owner,11000,100000,2022-03-09,Royal Enfield
+479,Enfield Classic 350,2016," New Delhi, Delhi",346,Single Owner,34000,110000,2022-03-09,Royal Enfield
+480,FZ-S,2015," Darjeeling, West Bengal",153,Single Owner,34000,60000,2022-03-09,Yamaha
+481,Duke 390,2017," Dhule, Maharashtra",373,Single Owner,15000,130000,2022-03-09,KTM
+482,Apache RTR 160 4V,2019," Nashik, Maharashtra",160,Single Owner,26650,75000,2022-08-22,TVS
+484,Achiever,2016," Kolkata, West Bengal",149,Single Owner,36000,45000,2022-08-22,Hero
+485,Apache RTR 160 4V,2021," Varanasi, Uttar Pradesh",160,Single Owner,3600,110000,2022-08-22,TVS
+486,Enfield Bullet Electra,2018," Thane, Maharashtra",346,Single Owner,43000,120000,2022-08-22,Royal Enfield
+487,Apache RTR 180,2011," Pune, Maharashtra",180,Single Owner,22500,45000,2022-08-22,TVS
+488,Enfield Bullet Electra Twinspark,2010," Noida, Uttar Pradesh",346,Single Owner,18000,90000,2022-08-22,Royal Enfield
+490,Enfield Classic 500,2015," Kondotti, Malappuram, Kerala",499,Two,48760,100000,2022-08-22,Royal Enfield
+491,XPulse 200,2021," Navi Mumbai, Maharashtra",200,Single Owner,3960,110000,2022-08-22,Hero
+492,Enfield Bullet Electra,2018," New Delhi, Delhi",346,Single Owner,9800,110000,2022-05-09,Royal Enfield
+493,Apache RTR 160 4V BS6,2021," Kolkata, West Bengal",160,Single Owner,6500,105000,2022-08-22,TVS
+494,Perak BS6,2020," Sri Ganganagar, Rajasthan",350,Single Owner,3900,190000,2022-07-09,Jawa
+495,Enfield Thunderbird 500,2015," Bangalore, Karnataka",499,Two,31000,150000,2022-08-28,Royal Enfield
+496,Gixxer ABS,2017," Pune, Maharashtra",155,Single Owner,31945,75000,2022-08-22,Suzuki
+498,Avenger Cruise 220,2018," Ludhiana, Punjab",220,Single Owner,7500,65000,2022-08-22,Bajaj
+499,Apache RTR 200 4V,2018," Noida, Uttar Pradesh",197,Single Owner,16000,70000,2022-05-09,TVS
+500,Pulsar 150 DTSi,2012," Pune, Maharashtra",150,Single Owner,21500,43000,2022-08-22,Bajaj
+501,42 Dual Channel ABS AllStar Black,2021, Bihar,293,Single Owner,6300,150000,2022-08-22,Jawa
+502,Apache RTR 160,2016," New Delhi, Delhi",160,Single Owner,59000,40000,2022-03-09,TVS
+503,TNT 600 GT,2016," Mumbai, Maharashtra",600,Three,11600,395000,2022-03-09,Benelli
+504,Pulsar RS 200 ABS,2017," Mumbai, Maharashtra",200,Single Owner,12000,120000,2022-02-09,Bajaj
+505,Enfield Thunderbird 350,2016," Pune, Maharashtra",346,Single Owner,40000,115000,2022-02-09,Royal Enfield
+507,Pulsar 200 NS ABS,2018," Mumbai, Maharashtra",199,Single Owner,8200,73000,2022-02-09,Bajaj
+508,Apache RTR 160 4V,2020," Mysore, Karnataka",160,Single Owner,42000,85000,2022-02-09,TVS
+509,Enfield Himalayan BS VI,2020," Kottarakkara, Kollam, Kerala",411,Single Owner,16100,200000,2022-02-09,Royal Enfield
+511,FZ-S,2019," Bangalore, Karnataka",153,Single Owner,17155,97500,2022-02-09,Yamaha
+512,Enfield Classic 350,2019," Chennai, Tamil Nadu",346,Single Owner,24800,150000,2022-08-27,Royal Enfield
+513,Xtreme 160R BS6,2021," Navi Mumbai, Maharashtra",149,Single Owner,9500,95000,2022-08-22,Hero
+514,Apache RTR 200 4V ABS Race Edition 2.0,2019," Rohtak, Haryana",200,Single Owner,13365,100000,2022-08-22,TVS
+515,Enfield Classic 350,2016," Gurgaon, Haryana",346,Single Owner,23000,125000,2022-08-22,Royal Enfield
+516,Enfield Classic 500,2015," Mumbai, Maharashtra",499,Single Owner,33045,180000,2022-08-22,Royal Enfield
+517,Gixxer SF Fi,2018," Mumbai, Maharashtra",155,Single Owner,9693,80000,2022-08-22,Suzuki
+518,Avenger Street 150,2016," Pune, Maharashtra",150,Single Owner,30000,60000,2022-08-22,Bajaj
+519,42 Dual Channel ABS AllStar Black,2019," Chennai, Tamil Nadu",293,Single Owner,1450,190000,2022-08-19,Jawa
+520,Enfield Continental GT 650 Twin,2021," Meerut, Uttar Pradesh",650,Single Owner,2000,310000,2022-08-19,Royal Enfield
+521,CBZ Xtreme,2013," Bhagalpur, Bihar",150,Single Owner,59000,50000,2022-08-20,Hero
+522,CB Unicorn 160,2015, Telangana,162,Single Owner,40000,40000,2022-08-19,Honda
+523,Duke 390 BS6,2017," Mumbai, Maharashtra",390,Single Owner,3000,200000,2022-08-19,KTM
+524,Dominar 250,2022," Bangalore, Karnataka",250,Single Owner,650,175000,2022-08-20,Bajaj
+525,Enfield Bullet Electra 5S,2007," Chennai, Tamil Nadu",346,Two,55000,85000,2022-08-19,Royal Enfield
+526,Enfield Thunderbird 350,2014," Thane, Maharashtra",346,Single Owner,12000,70000,2022-08-19,Royal Enfield
+527,Enfield Bullet Standard 350,2020," Thrissur, Kerala",346,Single Owner,33000,125000,2022-08-19,Royal Enfield
+528,Pulsar 200 NS,2013," Panipat, Haryana",199,Single Owner,35000,67000,2022-08-19,Bajaj
+529,Avenger 200 DTS-i,2010," Pune, Maharashtra",200,Single Owner,40000,40000,2022-08-19,Bajaj
+530,Enfield Thunderbird X 350,2019," Hanamkonda, Telangana",346,Single Owner,5000,160000,2022-08-19,Royal Enfield
+531,FZ-S FI V3 BS6,2019," Hyderabad, Telangana",150,Single Owner,2800,98000,2022-08-19,Yamaha
+532,Enfield Classic 350,2018," Bangalore, Karnataka",346,Single Owner,43485,145000,2022-02-09,Royal Enfield
+533,Avenger Street 220,2016," Bangalore, Karnataka",220,Single Owner,51300,56000,2022-02-09,Bajaj
+534,Duke 200,2016," Pune, Maharashtra",200,Single Owner,22000,110000,2022-02-09,KTM
+535,XBlade BS6,2021," Chhindwara, Madhya Pradesh",160,Single Owner,2000,105000,2022-02-09,Honda
+536,Pulsar 150 DTSi,2019," Khargone, Madhya Pradesh",150,Single Owner,54000,75000,2022-02-09,Bajaj
+537,Enfield Thunderbird 350,2016," New Delhi, Delhi",346,Single Owner,10000,110000,2022-02-09,Royal Enfield
+538,XPulse 200T,2022," Hyderabad, Telangana",200,Single Owner,5000,125000,2022-02-09,Hero
+539,Enfield Bullet Standard 500,2017," New Delhi, Delhi",499,Single Owner,37463,125000,2022-02-09,Royal Enfield
+540,FZS 25,2019," Chennai, Tamil Nadu",250,Single Owner,30500,97000,2022-02-09,Yamaha
+541,Duke 200,2017," Pratapgarh, Uttar Pradesh",200,Single Owner,40000,100000,2022-02-09,KTM
+542,Enfield Classic Gunmetal Grey,2019," New Delhi, Delhi",346,Single Owner,20000,170000,2022-08-19,Royal Enfield
+543,Avenger Cruise 220 BS6,2017," Hyderabad, Telangana",180,Single Owner,23000,75000,2022-08-21,Bajaj
+544,G 310 GS,2018," Gurgaon, Haryana",313,Single Owner,11500,180000,2022-08-21,BMW
+545,Enfield Classic 350,2015, Karnataka,346,Single Owner,10000,110000,2022-08-23,Royal Enfield
+546,forty two BS6,2021," Dhemaji, Assam",293,Single Owner,5400,150000,2022-08-19,Jawa
+547,Enfield Continental GT 535,2015," Faridabad, Haryana",535,Two,25000,100000,2022-08-18,Royal Enfield
+548,Gixxer SF Moto GP,2015," Erode, Tamil Nadu",150,Single Owner,28500,49500,2022-08-18,Suzuki
+549,YZF R15 S V3.0,2021," Bangalore, Karnataka",155,Single Owner,3087,185000,2022-08-18,Yamaha
+550,Pulsar 200 NS,2018," Nashik, Maharashtra",199,Single Owner,31000,95000,2022-08-18,Bajaj
+551,Davidson Dyna Fat Bob FXDF,2017," Gurgaon, Haryana",1585,Single Owner,18000,800000,2022-08-18,Harley Davidson
+552,Enfield Classic Stealth Black,2018," New Delhi, Delhi",499,Single Owner,2400,260000,2022-08-17,Royal Enfield
+553,Dominar 400 ABS BS6,2020," Dehradun, Utarakhand",373,Single Owner,7600,170000,2022-10-09,Bajaj
+554,FZ25,2019," Vellore, Tamil Nadu",249,Single Owner,14345,127000,2022-08-09,Yamaha
+555,Enfield Classic,2019," Thiruvalla, Pathanamthitta, Kerala",350,Single Owner,12000,155000,2022-08-19,Royal Enfield
+556,Pulsar 150,2016," Hyderabad, Telangana",150,Single Owner,100610,40000,2022-08-17,Bajaj
+557,YZF R15 V3,2021," Salem, Tamil Nadu",155,Single Owner,6000,152000,2022-08-16,Yamaha
+558,Enfield Thunderbird X 350,2019," Chennai, Tamil Nadu",346,Single Owner,7200,150000,2022-08-16,Royal Enfield
+559,Enfield Bullet Standard 500,2015," Gurgaon, Haryana",499,Single Owner,25000,125000,2022-08-16,Royal Enfield
+560,Enfield Thunderbird 350,2013," Lucknow, Uttar Pradesh",346,Single Owner,42400,85000,2022-08-17,Royal Enfield
+561,Apache RR 310,2021," Madurai, Tamil Nadu",312,Single Owner,13000,250000,2022-08-16,TVS
+562,MT-15 BS6,2019," Ujjain, Madhya Pradesh",155,Single Owner,7800,120000,2022-02-09,Yamaha
+563,Enfield Classic Gunmetal Grey,2019," Saharanpur, Uttar Pradesh",346,Single Owner,32000,168000,2022-02-09,Royal Enfield
+564,Karizma ZMR,2011," Mumbai, Maharashtra",223,Single Owner,25000,47500,2022-02-09,Hero
+565,Vitpilen 250 2020,2020," Cuddalore, Tamil Nadu",250,Single Owner,5600,170000,2022-02-09,Husqvarna
+566,Enfield Classic 350,2014," Pune, Maharashtra",346,Single Owner,36855,90000,2022-02-09,Royal Enfield
+567,Enfield Thunderbird 350,2016," Chennai, Tamil Nadu",346,Single Owner,12000,100000,2022-02-09,Royal Enfield
+568,Pulsar 200 NS ABS,2017," Rewari, Haryana",199,Single Owner,17789,70000,2022-02-09,Bajaj
+570,Enfield Himalayan Sleet,2018, Maharashtra,411,Two,36400,145000,2022-01-09,Royal Enfield
+571,FZ-S FI V2,2017," Bangalore, Karnataka",149,Single Owner,12000,71000,2022-01-09,Yamaha
+572,XPulse 200T BS6,2021," Thane, Maharashtra",200,Single Owner,6000,150000,2022-08-16,Hero
+573,Enfield Thunderbird 500,2016," Vaikom, Kottayam, Kerala",500,Single Owner,19447,135000,2022-08-29,Royal Enfield
+574,Enfield Bullet Standard 350,1986," Bangalore, Karnataka",346,Two,15000,100000,2022-08-16,Royal Enfield
+575,Enfield Thunderbird X 350,2018," Mumbai, Maharashtra",346,Single Owner,13600,140000,2022-08-16,Royal Enfield
+576,YZF R15 S,2017," Hyderabad, Telangana",149,Single Owner,2063,90000,2022-08-15,Yamaha
+577,Enfield Classic 350,2014," Chennai, Tamil Nadu",346,Single Owner,19529,85000,2022-08-15,Royal Enfield
+578,SR 150 Race,2018," Pondicherry, Pondicherry",155,Single Owner,6800,54000,2022-08-15,Aprilia
+579,FZ-S FI V2,2015," Nalbari, Assam",149,Single Owner,80000,55000,2022-08-26,Yamaha
+580,Avenger Cruise 220,2021," Haridwar, Utarakhand",220,Single Owner,314,125000,2022-08-15,Bajaj
+581,CB Hornet 160R,2017," Chennai, Tamil Nadu",162,Single Owner,14000,65000,2022-08-15,Honda
+582,Apache RTR 180,2009," Chennai, Tamil Nadu",180,Single Owner,73000,40000,2022-08-15,TVS
+583,Enfield Himalayan Sleet,2019," Kodakara, Thrissur, Kerala",411,Single Owner,5421,200000,2022-08-16,Royal Enfield
+584,FZ-S,2017," Pali, Rajasthan",151,Single Owner,25000,65000,2022-08-15,Yamaha
+585,FZ-S FI V3 BS6,2020," Hyderabad, Telangana",150,Single Owner,18000,94000,2022-08-17,Yamaha
+586,Duke 390,2017," Thane, Maharashtra",373,Two,22000,190000,2022-08-15,KTM
+587,Dominar 400,2018," Gurgaon, Haryana",400,Single Owner,43000,110000,2022-08-16,Bajaj
+588,FZ-S FI V2,2014," Bangalore, Karnataka",149,Single Owner,27000,49000,2022-04-09,Yamaha
+589,Pulsar 150,2014," Patna, Bihar",150,Single Owner,46000,52000,2022-08-18,Bajaj
+590,Enfield Thunderbird,2014," Mumbai, Maharashtra",346,Single Owner,25000,65000,2022-08-15,Royal Enfield
+591,FZ-S FI V2,2017," Thane, Maharashtra",149,Single Owner,7500,58000,2022-08-15,Yamaha
+592,SR 160 Race ABS,2019," Bangalore, Karnataka",150,Single Owner,10000,85000,2022-01-09,Aprilia
+593,Apache RTR 160 4V,2019," Ahmedabad, Gujarat",160,Single Owner,18000,70000,2022-01-09,TVS
+594,forty two,2020," Panipat, Haryana",293,Single Owner,18000,140000,2022-01-09,Jawa
+595,CB300R,2019," Bangalore, Karnataka",300,Single Owner,12600,270000,2022-01-09,Honda
+596,Avenger Cruise 220,2017," Jaipur, Rajasthan",220,Single Owner,68000,55000,2022-01-09,Bajaj
+597,Apache RTR 200 4V,2020," Thane, Maharashtra",197,Single Owner,38500,80000,2022-01-09,TVS
+598,Xtreme 200R,2019," Kolkata, West Bengal",200,Single Owner,30000,50000,2022-01-09,Hero
+599,XBlade BS6,2018," Madurai, Tamil Nadu",160,Single Owner,65000,66000,2022-01-09,Honda
+600,Enfield Thunderbird X 350,2018," Mysore, Karnataka",346,Single Owner,16000,160000,2022-01-09,Royal Enfield
