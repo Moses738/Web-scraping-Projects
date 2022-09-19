@@ -1,0 +1,495 @@
+,Movie_Name,Release_Year,Time_mnts,Movie_type,Ratings,Metascore,Votes,Gross_$
+0,The Shawshank Redemption,1994,142,Drama            ,9.3,81,2638889,28340000
+1,The Godfather,1972,175,"Crime, Drama            ",9.2,100,1829116,134970000
+3,The Dark Knight,2008,152,"Action, Crime, Drama            ",9.0,84,2610455,534860000
+4,The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama            ",9.0,94,1814282,377850000
+5,Schindler's List,1993,195,"Biography, Drama, History            ",9.0,94,1338094,96900000
+6,The Godfather Part II,1974,202,"Crime, Drama            ",9.0,90,1254150,57300000
+7, Angry Men,1957,96,"Crime, Drama            ",9.0,96,779120,4360000
+9,Pulp Fiction,1994,154,"Crime, Drama            ",8.9,94,2019585,107930000
+10,Inception,2010,148,"Action, Adventure, Sci-Fi            ",8.8,74,2313980,292580000
+11,The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama            ",8.8,87,1638428,342550000
+12,Fight Club,1999,139,Drama            ,8.8,66,2082676,37030000
+13,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama            ",8.8,92,1838051,315540000
+14,Forrest Gump,1994,142,"Drama, Romance            ",8.8,82,2042869,330250000
+15,"Il buono, il brutto, il cattivo",1966,161,"Adventure, Western            ",8.8,90,753752,6100000
+17,The Matrix,1999,136,"Action, Sci-Fi            ",8.7,73,1888180,171480000
+18,Goodfellas,1990,145,"Biography, Crime, Drama            ",8.7,90,1143256,46840000
+19,The Empire Strikes Back,1980,124,"Action, Adventure, Fantasy            ",8.7,82,1275691,290480000
+20,One Flew Over the Cuckoo's Nest,1975,133,Drama            ,8.7,84,997212,112000000
+21,Interstellar,2014,169,"Adventure, Drama, Sci-Fi            ",8.6,74,1781589,188020000
+22,Cidade de Deus,2002,130,"Crime, Drama            ",8.6,79,750182,7560000
+23,Sen to Chihiro no kamikakushi,2001,125,"Animation, Adventure, Family            ",8.6,96,749713,10060000
+24,Saving Private Ryan,1998,169,"Drama, War            ",8.6,91,1371805,216540000
+25,The Green Mile,1999,189,"Crime, Drama, Fantasy            ",8.6,61,1281466,136800000
+26,La vita è bella,1997,116,"Comedy, Drama, Romance            ",8.6,59,686855,57600000
+27,Se,1995,127,"Crime, Drama, Mystery            ",8.6,65,1622971,100130000
+28,Terminator ,1991,137,"Action, Sci-Fi            ",8.6,75,1085607,204840000
+29,The Silence of the Lambs,1991,118,"Crime, Drama, Thriller            ",8.6,85,1410377,130740000
+30,Star Wars,1977,121,"Action, Adventure, Fantasy            ",8.6,90,1348402,322740000
+32,Shichinin no samurai,1954,207,"Action, Drama            ",8.6,98,343483,270000
+37,Gisaengchung,2019,132,"Comedy, Drama, Thriller            ",8.5,96,774841,53370000
+38,Whiplash,2014,106,"Drama, Music            ",8.5,88,837276,13090000
+40,The Intouchables,2011,112,"Biography, Comedy, Drama            ",8.5,57,846044,13180000
+41,The Prestige,2006,130,"Drama, Mystery, Sci-Fi            ",8.5,66,1315466,53090000
+42,The Departed,2006,151,"Crime, Drama, Thriller            ",8.5,85,1308453,132380000
+43,The Pianist,2002,150,"Biography, Drama, Music            ",8.5,85,820007,32570000
+44,Gladiator,2000,155,"Action, Adventure, Drama            ",8.5,67,1479308,187710000
+45,American History X,1998,119,"Crime, Drama            ",8.5,62,1110955,6720000
+46,The Usual Suspects,1995,106,"Crime, Drama, Mystery            ",8.5,77,1074230,23340000
+47,Léon,1994,110,"Action, Crime, Drama            ",8.5,64,1145803,19500000
+48,The Lion King,1994,88,"Animation, Adventure, Drama            ",8.5,88,1043703,422780000
+49,Nuovo Cinema Paradiso,1988,155,"Drama, Romance            ",8.5,80,258795,11990000
+51,Back to the Future,1985,116,"Adventure, Comedy, Sci-Fi            ",8.5,87,1184859,210610000
+52,Apocalypse Now,1979,147,"Drama, Mystery, War            ",8.5,94,660994,83470000
+53,Alien,1979,117,"Horror, Sci-Fi            ",8.5,89,870347,78900000
+54,Once Upon a Time in the West,1968,165,Western            ,8.5,80,327285,5320000
+55,Psycho,1960,109,"Horror, Mystery, Thriller            ",8.5,97,663942,32000000
+56,Rear Window,1954,112,"Mystery, Thriller            ",8.5,100,487365,36760000
+57,Casablanca,1942,102,"Drama, Romance, War            ",8.5,100,566819,1020000
+58,Modern Times,1936,87,"Comedy, Drama, Romance            ",8.5,96,240796,160000
+59,City Lights,1931,87,"Comedy, Drama, Romance            ",8.5,99,183832,20000
+61,Capharnaüm,2018,126,Drama            ,8.4,75,88038,1660000
+62,JokerI) ,2019,122,"Crime, Drama, Thriller            ",8.4,59,1239659,335450000
+63,Kimi no na wa.,2016,106,"Animation, Drama, Fantasy            ",8.4,79,261464,5020000
+64,Spider-Man: Into the Spider-Verse,2018,117,"Animation, Action, Adventure            ",8.4,87,513181,190240000
+65,Avengers: Endgame,2019,181,"Action, Adventure, Drama            ",8.4,78,1099131,858370000
+66,Avengers: Infinity War,2018,149,"Action, Adventure, Sci-Fi            ",8.4,68,1053916,678820000
+67,CocoI) ,2017,105,"Animation, Adventure, Comedy            ",8.4,81,494329,209730000
+68,Django Unchained,2012,165,"Drama, Western            ",8.4,81,1526969,162810000
+69,The Dark Knight Rises,2012,164,"Action, Drama            ",8.4,78,1682202,448140000
+71, Idiots,2009,170,"Comedy, Drama            ",8.4,67,395505,6530000
+75,WALL·E,2008,98,"Animation, Adventure, Family            ",8.4,95,1102598,223810000
+76,The Lives of Others,2006,137,"Drama, Mystery, Thriller            ",8.4,89,387371,11290000
+77,Oldeuboi,2003,101,"Action, Drama, Mystery            ",8.4,77,571951,710000
+78,Memento,2000,113,"Mystery, Thriller            ",8.4,80,1224563,25540000
+79,American Beauty,1999,122,Drama            ,8.4,84,1144223,130100000
+80,Mononoke-hime,1997,134,"Animation, Adventure, Fantasy            ",8.4,76,390048,2380000
+81,Braveheart,1995,178,"Biography, Drama, History            ",8.4,68,1028945,75600000
+83,Aliens,1986,137,"Action, Adventure, Sci-Fi            ",8.4,84,710474,85160000
+84,Amadeus,1984,160,"Biography, Drama, Music            ",8.4,88,398477,51970000
+85,Raiders of the Lost Ark,1981,115,"Action, Adventure            ",8.4,85,956530,248160000
+86,Das Boot,1981,149,"Drama, War            ",8.4,86,249967,11490000
+87,The Shining,1980,146,"Drama, Horror            ",8.4,66,1004743,44020000
+89,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,"Comedy, War            ",8.4,97,487173,280000
+90,Witness for the Prosecution,1957,116,"Crime, Drama, Mystery            ",8.4,76,124580,8180000
+100,Jagten,2012,115,Drama            ,8.3,77,326068,690000
+101,Jodaeiye Nader az Simin,2011,123,Drama            ,8.3,95,244191,7100000
+102,Incendies,2010,131,"Drama, Mystery            ",8.3,80,175918,6860000
+103,Spider-Man: No Way Home,2021,148,"Action, Adventure, Fantasy            ",8.3,71,721190,804750000
+104,Up,2009,96,"Animation, Adventure, Comedy            ",8.3,88,1031822,293000000
+106,Toy Story ,2010,103,"Animation, Adventure, Comedy            ",8.3,92,827953,415000000
+107,Inglourious Basterds,2009,153,"Adventure, Drama, War            ",8.3,69,1424270,120540000
+108,Eternal Sunshine of the Spotless Mind,2004,108,"Drama, Romance, Sci-Fi            ",8.3,89,995813,34400000
+109,Le fabuleux destin d'Amélie Poulain,2001,122,"Comedy, Romance            ",8.3,69,751395,33229999
+110,Snatch,2000,104,"Comedy, Crime            ",8.3,55,848060,30330000
+111,Requiem for a Dream,2000,102,Drama            ,8.3,68,833224,3640000
+112,Good Will Hunting,1997,126,"Drama, Romance            ",8.3,70,954254,138430000
+113,Toy Story,1995,81,"Animation, Adventure, Comedy            ",8.3,95,982255,191800000
+114,Heat,1995,170,"Action, Crime, Drama            ",8.3,76,647818,67440000
+115,Reservoir Dogs,1992,99,"Crime, Drama, Thriller            ",8.3,79,1005901,2830000
+116,Full Metal Jacket,1987,116,"Drama, War            ",8.3,76,735434,46360000
+117,Once Upon a Time in America,1984,229,"Crime, Drama            ",8.3,75,349214,5320000
+118,Scarface,1983,170,"Crime, Drama            ",8.3,65,828267,45600000
+119,Star Wars: Episode VI - Return of the Jedi,1983,131,"Action, Adventure, Fantasy            ",8.3,58,1041639,309130000
+120,The Sting,1973,129,"Comedy, Crime, Drama            ",8.3,83,260664,159600000
+121,A Clockwork Orange,1971,136,"Crime, Sci-Fi            ",8.3,77,821384,6210000
+122, A Space Odyssey,1968,149,"Adventure, Sci-Fi            ",8.3,84,661855,56950000
+124,Lawrence of Arabia,1962,218,"Adventure, Biography, Drama            ",8.3,100,291955,44820000
+126,The Apartment,1960,125,"Comedy, Drama, Romance            ",8.3,94,180662,18600000
+127,North by Northwest,1959,136,"Action, Adventure, Mystery            ",8.3,98,325948,13280000
+128,Vertigo,1958,128,"Mystery, Romance, Thriller            ",8.3,100,399511,3200000
+130,Singin' in the Rain,1952,103,"Comedy, Musical, Romance            ",8.3,99,240848,8820000
+131,Ikiru,1952,143,Drama            ,8.3,91,78083,60000
+133,Double Indemnity,1944,107,"Crime, Drama, Film-Noir            ",8.3,95,156647,5720000
+134,Citizen Kane,1941,119,"Drama, Mystery            ",8.3,100,439439,1590000
+136,Metropolis,1927,153,"Drama, Sci-Fi            ",8.3,98,173564,1240000
+138,,2019,119,"Action, Drama, War            ",8.2,78,572167,159230000
+143,Green Book,2018,130,"Biography, Comedy, Drama            ",8.2,69,479557,85080000
+148,Inside OutI) ,2015,95,"Animation, Adventure, Comedy            ",8.2,94,703162,356460000
+152,El secreto de sus ojos,2009,129,"Drama, Mystery, Romance            ",8.2,80,208810,6390000
+153,Warrior,2011,140,"Action, Drama, Sport            ",8.2,71,469519,13660000
+154,Shutter Island,2010,138,"Mystery, Thriller            ",8.2,63,1287959,128009999
+155,Kimetsu no Yaiba: Mugen Ressha-Hen,2020,117,"Animation, Action, Adventure            ",8.2,72,55759,47700000
+158,The Wolf of Wall Street,2013,180,"Biography, Comedy, Crime            ",8.2,75,1377999,116900000
+159,No Country for Old Men,2007,122,"Crime, Drama, Thriller            ",8.2,92,959007,74280000
+161,There Will Be Blood,2007,158,Drama            ,8.2,93,580425,40220000
+162,Pan's Labyrinth,2006,118,"Drama, Fantasy, War            ",8.2,98,663750,37630000
+163,V for Vendetta,2005,132,"Action, Drama, Sci-Fi            ",8.2,62,1111743,70510000
+164,Batman Begins,2005,140,"Action, Crime, Drama            ",8.2,70,1451618,206850000
+166,Der Untergang,2004,156,"Biography, Drama, History            ",8.2,82,353995,5510000
+167,Hauru no ugoku shiro,2004,119,"Animation, Adventure, Family            ",8.2,80,389448,4710000
+168,A Beautiful Mind,2001,135,"Biography, Drama            ",8.2,72,923900,170740000
+169,Kill Bill: Vol. ,2003,111,"Action, Crime, Drama            ",8.2,69,1101831,70100000
+170,Finding Nemo,2003,100,"Animation, Adventure, Comedy            ",8.2,90,1033076,380840000
+171,The Sixth Sense,1999,107,"Drama, Mystery, Thriller            ",8.2,64,982384,293510000
+172,"Lock, Stock and Two Smoking Barrels",1998,107,"Action, Comedy, Crime            ",8.2,66,578050,3900000
+173,The Truman Show,1998,103,"Comedy, Drama            ",8.2,90,1061271,125620000
+174,L.A. Confidential,1997,138,"Crime, Drama, Mystery            ",8.2,90,579117,64620000
+175,Bacheha-Ye aseman,1997,89,"Drama, Family, Sport            ",8.2,77,74629,930000
+176,Casino,1995,178,"Crime, Drama            ",8.2,73,514617,42440000
+177,Jurassic Park,1993,127,"Action, Adventure, Sci-Fi            ",8.2,68,976931,402450000
+178,Unforgiven,1992,130,"Drama, Western            ",8.2,85,409545,101160000
+179,Indiana Jones and the Last Crusade,1989,127,"Action, Adventure            ",8.2,65,748087,197170000
+180,Die Hard,1988,132,"Action, Thriller            ",8.2,72,868025,83010000
+181,Ran,1985,162,"Action, Drama, War            ",8.2,96,125122,4139999
+182,The Thing,1982,109,"Horror, Mystery, Sci-Fi            ",8.2,57,418607,13780000
+183,Raging Bull,1980,129,"Biography, Drama, Sport            ",8.2,89,351558,23380000
+185,Taxi Driver,1976,114,"Crime, Drama            ",8.2,94,817888,28260000
+186,Monty Python and the Holy Grail,1975,91,"Adventure, Comedy, Fantasy            ",8.2,91,538001,1230000
+188,Chinatown,1974,130,"Drama, Mystery, Thriller            ",8.2,92,324624,8490000
+189,Z,1969,127,"Crime, Drama, Thriller            ",8.2,86,28826,80000
+190,Per qualche dollaro in più,1965,132,Western            ,8.2,74,255319,15000000
+191,The Great Escape,1963,172,"Adventure, Drama, History            ",8.2,86,243599,12100000
+193,Some Like It Hot,1959,121,"Comedy, Music, Romance            ",8.2,98,265756,25000000
+194,The Bridge on the River Kwai,1957,161,"Adventure, Drama, War            ",8.2,87,219865,44910000
+195,Dial M for Murder,1954,105,"Crime, Thriller            ",8.2,75,175018,10000
+198,Umberto D.,1952,89,Drama            ,8.2,92,25907,70000
+199,Rashômon,1950,88,"Crime, Drama, Mystery            ",8.2,98,167786,100000
+200,All About Eve,1950,138,Drama            ,8.2,98,131070,10000
+201,The Treasure of the Sierra Madre,1948,126,"Adventure, Drama, Western            ",8.2,98,124686,5010000
+203,Gone with the Wind,1939,238,"Drama, Romance, War            ",8.2,97,314021,198680000
+208,Portrait de la jeune fille en feu,2019,122,"Drama, Romance            ",8.1,95,89491,3760000
+212,"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy, Crime, Drama            ",8.1,88,499453,54510000
+216,Ah-ga-ssi,2016,145,"Drama, Romance, Thriller            ",8.1,84,144328,2009999
+219,Logan,2017,137,"Action, Drama, Sci-Fi            ",8.1,77,749301,226280000
+220,RoomI) ,2015,118,"Drama, Thriller            ",8.1,86,416934,14680000
+221,Relatos salvajes,2014,122,"Comedy, Drama, Thriller            ",8.1,77,196934,3110000
+222,Mandariinid,2013,87,"Drama, War            ",8.1,73,46286,140000
+225,The Grand Budapest Hotel,2014,99,"Adventure, Comedy, Crime            ",8.1,88,797242,59100000
+226,Gone Girl,2014,149,"Drama, Mystery, Thriller            ",8.1,79,969852,167770000
+228,Hacksaw Ridge,2016,139,"Biography, Drama, History            ",8.1,71,515980,67210000
+230, Years a Slave,2013,134,"Biography, Drama, History            ",8.1,96,695154,56670000
+231,RushI) ,2013,123,"Action, Biography, Drama            ",8.1,74,476137,26950000
+232,Ford v Ferrari,2019,152,"Action, Biography, Drama            ",8.1,81,382858,117620000
+233,SpotlightI) ,2015,129,"Biography, Crime, Drama            ",8.1,93,465922,45060000
+236,The Help,2011,146,Drama            ,8.1,62,456105,169710000
+237,Prisoners,2013,153,"Crime, Drama, Mystery            ",8.1,70,697899,61000000
+238,Mad Max: Fury Road,2015,120,"Action, Adventure, Sci-Fi            ",8.1,90,988340,154060000
+240,Gran Torino,2008,116,Drama            ,8.1,72,770500,148100000
+241,Harry Potter and the Deathly Hallows: Part ,2011,130,"Adventure, Fantasy, Mystery            ",8.1,85,863387,381010000
+245,How to Train Your Dragon,2010,98,"Animation, Action, Adventure            ",8.1,75,732497,217580000
+246,Chak De! India,2007,153,"Drama, Family, Sport            ",8.1,68,80288,1110000
+247,Into the Wild,2007,148,"Adventure, Biography, Drama            ",8.1,73,619322,18350000
+249,Million Dollar Baby,2004,132,"Drama, Sport            ",8.1,86,683159,100490000
+250,Hotel Rwanda,2004,121,"Biography, Drama, History            ",8.1,79,354502,23530000
+251,Ratatouille,2007,111,"Animation, Adventure, Comedy            ",8.1,96,724084,206450000
+252,Before Sunset,2004,80,"Drama, Romance            ",8.1,90,262160,5820000
+255,Salinui chueok,2003,131,"Crime, Drama, Mystery            ",8.1,82,180184,10000
+256,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy            ",8.1,63,1114858,305410000
+258,Catch Me If You Can,2002,141,"Biography, Crime, Drama            ",8.1,75,963766,164620000
+260,Amores perros,2000,154,"Drama, Thriller            ",8.1,83,239697,5380000
+263,"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy            ",8.1,79,898925,289920000
+264,Lagaan: Once Upon a Time in India,2001,224,"Drama, Musical, Sport            ",8.1,84,114018,70000
+265,Festen,1998,105,Drama            ,8.1,82,86934,1650000
+266,The Iron Giant,1999,86,"Animation, Action, Adventure            ",8.1,85,193630,23160000
+267,The Big Lebowski,1998,117,"Comedy, Crime            ",8.1,71,801028,17500000
+268,Fa Yeung Nin Wah,2000,98,"Drama, Romance            ",8.1,85,148271,2730000
+269,Trainspotting,1996,93,Drama            ,8.1,83,681985,16500000
+270,Fargo,1996,98,"Crime, Thriller            ",8.1,85,672660,24610000
+272,Underground,1995,170,"Comedy, Drama, Fantasy            ",8.1,79,58469,170000
+274,Before Sunrise,1995,101,"Drama, Romance            ",8.1,77,305038,5540000
+275,Trois couleurs: Rouge,1994,99,"Drama, Mystery, Romance            ",8.1,100,102904,4040000
+276,In the Name of the Father,1993,133,"Biography, Crime, Drama            ",8.1,84,174340,25010000
+277,Groundhog Day,1993,101,"Comedy, Drama, Fantasy            ",8.1,72,624922,70910000
+278,Ba wang bie ji,1993,171,"Drama, Music, Romance            ",8.1,83,28977,5220000
+281,Dead Poets Society,1989,128,"Comedy, Drama            ",8.1,79,483517,95860000
+282,Tonari no Totoro,1988,86,"Animation, Comedy, Family            ",8.1,86,334938,1110000
+283,Stand by Me,1986,89,"Adventure, Drama            ",8.1,75,400046,52290000
+284,Platoon,1986,120,"Drama, War            ",8.1,92,411904,138530000
+286,The Terminator,1984,107,"Action, Sci-Fi            ",8.1,84,856183,38400000
+287,"Paris, Texas",1984,145,Drama            ,8.1,80,105797,2180000
+288,Gandhi,1982,191,"Biography, Drama            ",8.1,79,230893,52770000
+289,Fanny och Alexander,1982,188,Drama            ,8.1,100,63743,4970000
+290,Blade Runner,1982,117,"Action, Drama, Sci-Fi            ",8.1,84,761346,32869999
+293,The Deer Hunter,1978,183,"Drama, War            ",8.1,86,337626,48980000
+294,Rocky,1976,120,"Drama, Sport            ",8.1,70,569878,117240000
+298,Jaws,1975,124,"Adventure, Thriller            ",8.1,87,598787,260000000
+300,Paper Moon,1973,102,"Comedy, Crime, Drama            ",8.1,77,47711,30930000
+301,The Exorcist,1973,122,Horror            ,8.1,81,401116,232910000
+303,Cool Hand Luke,1967,127,"Crime, Drama            ",8.1,92,176672,16219999
+305,The Sound of Music,1965,172,"Biography, Drama, Family            ",8.1,63,232240,163210000
+306,La battaglia di Algeri,1966,121,"Drama, War            ",8.1,96,60072,60000
+311,Ben-Hur,1959,212,"Adventure, Drama            ",8.1,90,238442,74700000
+317,Du rififi chez les hommes,1955,118,"Crime, Drama, Thriller            ",8.1,97,34440,60000
+318,On the Waterfront,1954,108,"Crime, Drama, Thriller            ",8.1,91,154684,9600000
+320,Ace in the Hole,1951,111,"Drama, Film-Noir            ",8.1,72,36009,3970000
+322,The Third Man,1949,104,"Film-Noir, Mystery, Thriller            ",8.1,97,171216,450000
+324,The Best Years of Our Lives,1946,170,"Drama, Romance, War            ",8.1,93,64474,23650000
+325,The Shop Around the Corner,1940,99,"Comedy, Drama, Romance            ",8.1,96,33138,200000
+326,Rebecca,1940,130,"Drama, Film-Noir, Mystery            ",8.1,86,136828,4360000
+327,The Grapes of Wrath,1940,129,Drama            ,8.1,96,93102,60000
+328,The Wizard of Oz,1939,102,"Adventure, Family, Fantasy            ",8.1,92,396606,2080000
+329,Mr. Smith Goes to Washington,1939,129,"Comedy, Drama            ",8.1,73,115513,9600000
+331,It Happened One Night,1934,105,"Comedy, Romance            ",8.1,87,103684,4360000
+332,All Quiet on the Western Front,1930,152,"Drama, War            ",8.1,91,61496,3270000
+340,La La Land,2016,128,"Comedy, Drama, Music            ",8.0,94,578078,151100000
+341,Lion,2016,118,"Biography, Drama            ",8.0,69,235379,51740000
+342,The Martian,2015,144,"Adventure, Drama, Sci-Fi            ",8.0,80,842756,228430000
+343,MommyI) ,2014,139,Drama            ,8.0,74,56968,3490000
+346,Zootopia,2016,108,"Animation, Adventure, Comedy            ",8.0,78,492318,341270000
+347,Kis Uykusu,2014,196,Drama            ,8.0,88,51650,170000
+349,Kaguya-hime no Monogatari,2013,137,"Animation, Drama, Family            ",8.0,89,46540,1510000
+351,The Imitation Game,2014,114,"Biography, Drama, Thriller            ",8.0,71,761133,91130000
+352,Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy            ",8.0,76,1162563,333180000
+353,Song of the Sea,2014,93,"Animation, Adventure, Drama            ",8.0,85,58292,860000
+354,Blade Runner ,2017,164,"Action, Drama, Mystery            ",8.0,81,558614,92050000
+355,Her,2013,126,"Drama, Romance, Sci-Fi            ",8.0,91,605264,25570000
+356,The Revenant,2015,156,"Action, Adventure, Drama            ",8.0,76,793148,183640000
+357,The Perks of Being a Wallflower,2012,103,Drama            ,8.0,67,506894,17740000
+358,Tropa de Elite ,2010,115,"Action, Crime, Drama            ",8.0,71,83157,100000
+359,The King's Speech,2010,118,"Biography, Drama, History            ",8.0,88,676934,138800000
+360,Deadpool,2016,108,"Action, Adventure, Comedy            ",8.0,65,1020039,363070000
+363,Dune: Part One,2021,155,"Action, Adventure, Drama            ",8.0,74,608373,108330000
+364,Okuribito,2008,130,"Drama, Music            ",8.0,68,52179,1500000
+366,Slumdog Millionaire,2008,120,"Crime, Drama, Romance            ",8.0,84,840672,141320000
+367,Black Swan,2010,108,"Drama, Thriller            ",8.0,79,758473,106950000
+368,Tropa de Elite,2007,115,"Action, Crime, Drama            ",8.0,33,104054,10000
+369,The Avengers,2012,143,"Action, Adventure, Sci-Fi            ",8.0,69,1376169,623280000
+370,Persepolis,2007,96,"Animation, Biography, Drama            ",8.0,90,94649,4450000
+372,The Pursuit of Happyness,2006,117,"Biography, Drama            ",8.0,64,505911,163570000
+373,Blood Diamond,2006,143,"Adventure, Drama, Thriller            ",8.0,64,545041,57370000
+374,The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller            ",8.0,85,632612,227470000
+375,Dare mo shiranai,2004,141,Drama            ,8.0,88,28076,680000
+376,Sin City,2005,124,"Crime, Thriller            ",8.0,74,765977,74100000
+377,Le scaphandre et le papillon,2007,112,"Biography, Drama            ",8.0,92,107724,5990000
+378,Taegukgi hwinalrimyeo,2004,140,"Action, Drama, War            ",8.0,64,39772,1110000
+380,Casino Royale,2006,144,"Action, Adventure, Thriller            ",8.0,80,652842,167450000
+381,Kill Bill: Vol. ,2004,137,"Action, Crime, Thriller            ",8.0,83,748577,66209999
+382,Bom yeoreum gaeul gyeoul geurigo bom,2003,103,"Drama, Romance            ",8.0,85,82946,2380000
+383,Mar adentroI) ,2004,126,"Biography, Drama            ",8.0,74,81853,2089999
+384,Cinderella Man,2005,144,"Biography, Drama, Romance            ",8.0,69,187609,61650000
+385,Mou gaan dou,2002,101,"Action, Crime, Drama            ",8.0,75,124605,170000
+386,Big Fish,2003,125,"Adventure, Drama, Fantasy            ",8.0,58,439732,66260000
+387,The Incredibles,2004,115,"Animation, Action, Adventure            ",8.0,90,727542,261440000
+389,Dogville,2003,178,"Crime, Drama            ",8.0,60,148673,1530000
+391,Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi            ",8.0,88,794118,1480000
+392,Magnolia,1999,188,Drama            ,8.0,77,311599,22460000
+394,The Straight Story,1999,112,"Biography, Drama            ",8.0,86,90457,6200000
+395,Pâfekuto burû,1997,81,"Animation, Crime, Drama            ",8.0,67,75238,780000
+396,Central do Brasil,1998,110,Drama            ,8.0,80,39706,5600000
+397,La leggenda del pianista sull'oceano,1998,169,"Drama, Music, Romance            ",8.0,58,64357,260000
+398,"Crna macka, beli macor",1998,127,"Comedy, Crime, Romance            ",8.0,73,53879,350000
+399,Sling Blade,1996,135,Drama            ,8.0,84,94009,24480000
+400,Secrets & Lies,1996,136,"Comedy, Drama            ",8.0,91,43448,13420000
+401,Twelve Monkeys,1995,129,"Mystery, Sci-Fi, Thriller            ",8.0,74,614737,57140000
+403,Chung Hing sam lam,1994,102,"Comedy, Crime, Drama            ",8.0,78,80915,600000
+405,Scent of a Woman,1992,156,Drama            ,8.0,59,294138,63900000
+406,Aladdin,1992,90,"Animation, Adventure, Comedy            ",8.0,86,414221,217350000
+407,JFK,1991,189,"Drama, History, Thriller            ",8.0,72,155740,70410000
+408,Beauty and the Beast,1991,84,"Animation, Family, Fantasy            ",8.0,95,451593,218970000
+409,Dances with Wolves,1990,181,"Adventure, Drama, Western            ",8.0,72,264226,184210000
+410,Rain Man,1988,133,Drama            ,8.0,65,511070,178800000
+411,Akira,1988,124,"Animation, Action, Drama            ",8.0,67,184974,550000
+412,The Princess Bride,1987,98,"Adventure, Family, Fantasy            ",8.0,77,425251,30860000
+413,Der Himmel über Berlin,1987,128,"Drama, Fantasy, Romance            ",8.0,79,71062,3330000
+414,Au revoir les enfants,1987,104,"Drama, War            ",8.0,88,33915,4540000
+416,Kaze no tani no Naushika,1984,117,"Animation, Adventure, Sci-Fi            ",8.0,86,168581,500000
+418,Pink Floyd: The Wall,1982,95,"Drama, Fantasy, Music            ",8.0,47,81114,22240000
+420,Life of Brian,1979,94,Comedy            ,8.0,77,397529,20050000
+421,Being There,1979,130,"Comedy, Drama            ",8.0,83,72583,30180000
+422,Annie Hall,1977,93,"Comedy, Romance            ",8.0,92,264983,39200000
+423,Dog Day Afternoon,1975,125,"Biography, Crime, Drama            ",8.0,86,256072,50000000
+424,Zerkalo,1975,107,"Biography, Drama            ",8.0,80,46612,180000
+425,Young Frankenstein,1974,106,Comedy            ,8.0,80,157495,86300000
+426,Papillon,1973,151,"Biography, Crime, Drama            ",8.0,58,130545,53270000
+430,The Last Picture Show,1971,118,"Drama, Romance            ",8.0,93,48398,29130000
+431,Fiddler on the Roof,1971,181,"Drama, Family, Musical            ",8.0,67,43616,80500000
+432,Butch Cassidy and the Sundance Kid,1969,110,"Biography, Crime, Drama            ",8.0,66,215392,102310000
+434,Planet of the Apes,1968,112,"Adventure, Sci-Fi            ",8.0,79,179769,33400000
+436,The Graduate,1967,106,"Comedy, Drama, Romance            ",8.0,83,272359,104950000
+440,,1963,138,Drama            ,8.0,91,117683,50000
+442,What Ever Happened to Baby Jane?,1962,134,"Drama, Horror, Thriller            ",8.0,75,56334,4050000
+446,The Hustler,1961,134,"Drama, Sport            ",8.0,90,82017,8279999
+447,La dolce vita,1960,174,"Comedy, Drama            ",8.0,95,73136,19520000
+448,Rio Bravo,1959,141,Western            ,8.0,93,62623,12540000
+449,Anatomy of a Murder,1959,161,"Drama, Mystery            ",8.0,95,66419,11900000
+450,Touch of Evil,1958,95,"Crime, Drama, Film-Noir            ",8.0,99,104415,2240000
+453,The Night of the Hunter,1955,92,"Crime, Drama, Film-Noir            ",8.0,99,89409,650000
+457,High Noon,1952,85,"Drama, Thriller, Western            ",8.0,89,104210,9450000
+462,The Maltese Falcon,1941,100,"Crime, Film-Noir, Mystery            ",8.0,97,158320,2110000
+463,Bronenosets Potemkin,1925,75,"Drama, History, Thriller            ",8.0,97,57723,50000
+465,Knives Out,2019,130,"Comedy, Crime, Drama            ",7.9,82,609000,165360000
+466,Manbiki kazoku,2018,121,"Crime, Drama, Thriller            ",7.9,93,75832,3310000
+467,Marriage Story,2019,137,"Drama, Romance            ",7.9,94,303157,2000000
+474,Sing Street,2016,106,"Comedy, Drama, Music            ",7.9,79,93568,3240000
+475,Thor: Ragnarok,2017,130,"Action, Adventure, Comedy            ",7.9,74,736126,315060000
+476,Jojo Rabbit,2019,108,"Comedy, Drama, War            ",7.9,58,380846,350000
+477,WonderI) ,2017,113,"Drama, Family            ",7.9,66,163285,132419999
+478,ArrivalII) ,2016,116,"Drama, Mystery, Sci-Fi            ",7.9,81,683590,100550000
+479,Gully Boy,2019,154,"Drama, Music, Romance            ",7.9,65,39504,5570000
+480,Short Term ,2013,96,Drama            ,7.9,82,87840,1010000
+481,Serbuan maut ,2014,150,"Action, Crime, Thriller            ",7.9,71,123229,2630000
+482,Before Midnight,2013,109,"Drama, Romance            ",7.9,94,157457,8109999
+483,X-Men: Days of Future Past,2014,132,"Action, Adventure, Sci-Fi            ",7.9,75,707576,233920000
+485,Bohemian Rhapsody,2018,134,"Biography, Drama, Music            ",7.9,49,531334,216430000
+486,Hoje Eu Quero Voltar Sozinho,2014,96,"Drama, Romance            ",7.9,71,25539,100000
+487,The ArtistI) ,2011,100,"Comedy, Drama, Romance            ",7.9,89,241078,44670000
+488,Edge of Tomorrow,2014,113,"Action, Adventure, Sci-Fi            ",7.9,71,669982,100210000
+489,Amour,2012,127,Drama            ,7.9,94,100370,6740000
+490,Darbareye Elly,2009,119,"Drama, Mystery            ",7.9,87,53566,110000
+492,My Name Is Khan,2010,165,"Adventure, Drama, Romance            ",7.9,50,106920,4019999
+494,Låt den rätte komma in,2008,114,"Drama, Fantasy, Horror            ",7.9,82,216360,2120000
+495,District ,2009,112,"Action, Sci-Fi, Thriller            ",7.9,81,677651,115650000
+496,The Wrestler,2008,109,"Drama, Sport            ",7.9,80,305253,26240000
+498,BoyhoodI) ,2014,165,Drama            ,7.9,100,353614,25380000
+499," luni, ",2007,113,Drama            ,7.9,97,60391,1190000
+500,Star Trek,2009,127,"Action, Adventure, Sci-Fi            ",7.9,82,602063,257730000
+501,Dallas Buyers Club,2013,117,"Biography, Drama            ",7.9,79,484788,27300000
+502,In Bruges,2008,107,"Comedy, Crime, Drama            ",7.9,67,420832,7760000
+504,Letters from Iwo Jima,2006,141,"Action, Adventure, Drama            ",7.9,89,162723,13760000
+505,Life of Pi,2012,127,"Adventure, Drama, Fantasy            ",7.9,79,625213,124990000
+506,Fantastic Mr. Fox,2009,87,"Animation, Adventure, Comedy            ",7.9,83,229682,21000000
+507,Bin-jip,2004,88,"Crime, Drama, Romance            ",7.9,72,55228,240000
+509,Vozvrashchenie,2003,110,Drama            ,7.9,82,45575,500000
+510,Iron Man,2008,126,"Action, Adventure, Sci-Fi            ",7.9,79,1046240,318410000
+511,Shaun of the Dead,2004,99,"Comedy, Horror            ",7.9,76,554088,13540000
+512,Kal Ho Naa Ho,2003,186,"Comedy, Drama, Musical            ",7.9,54,69206,1790000
+514,Mystic River,2003,138,"Crime, Drama, Mystery            ",7.9,84,454246,90140000
+515,Harry Potter and the Prisoner of Azkaban,2004,142,"Adventure, Family, Fantasy            ",7.9,82,625496,249360000
+516,Ying xiong,2002,120,"Action, Adventure, Drama            ",7.9,85,181313,53710000
+517,Hable con ella,2002,112,"Drama, Mystery, Romance            ",7.9,86,112420,9280000
+518,No Man's LandI) ,2001,98,"Comedy, Drama, War            ",7.9,84,47213,1060000
+519,The Bourne Identity,2002,119,"Action, Mystery, Thriller            ",7.9,68,544316,121660000
+520,Nueve reinas,2000,114,"Crime, Drama, Thriller            ",7.9,80,53047,1220000
+521,Children of Men,2006,109,"Action, Drama, Sci-Fi            ",7.9,84,497600,35550000
+522,Wo hu cang long,2000,120,"Action, Adventure, Drama            ",7.9,94,268663,128080000
+523,Almost Famous,2000,122,"Adventure, Comedy, Drama            ",7.9,90,275321,32530000
+524,Dancer in the Dark,2000,140,"Crime, Drama, Musical            ",7.9,61,109850,4179999
+525,Mulholland Dr.,2001,147,"Drama, Mystery, Thriller            ",7.9,85,352819,7220000
+526,Shrek,2001,90,"Animation, Adventure, Comedy            ",7.9,84,669691,267670000
+527,Toy Story ,1999,92,"Animation, Adventure, Comedy            ",7.9,88,576100,245850000
+528,Titanic,1997,194,"Drama, Romance            ",7.9,75,1157041,659330000
+530,Boogie Nights,1997,155,Drama            ,7.9,85,264126,26400000
+532,Kôkaku Kidôtai,1995,83,"Animation, Action, Crime            ",7.9,76,142401,520000
+533,Once Were Warriors,1994,102,"Crime, Drama            ",7.9,77,34397,2200000
+534,True Romance,1993,119,"Crime, Drama, Romance            ",7.9,59,226115,12280000
+535,Trois couleurs: Bleu,1993,94,"Drama, Music, Mystery            ",7.9,85,101785,1320000
+536,The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy            ",7.9,82,331379,75080000
+537,Carlito's Way,1993,144,"Crime, Drama, Thriller            ",7.9,65,217492,36950000
+538,Bound by Honor,1993,180,"Crime, Drama            ",7.9,47,31454,4500000
+539,Edward Scissorhands,1990,105,"Drama, Fantasy, Romance            ",7.9,74,485804,56360000
+540,My Left Foot: The Story of Christy Brown,1989,103,"Biography, Drama            ",7.9,97,74405,14740000
+541,Do the Right Thing,1989,120,"Comedy, Drama            ",7.9,93,101987,27550000
+542,The Untouchables,1987,119,"Crime, Drama, Thriller            ",7.9,79,308156,76270000
+544,Hannah and Her Sisters,1986,107,"Comedy, Drama            ",7.9,90,71637,40080000
+545,Brazil,1985,132,"Drama, Sci-Fi            ",7.9,84,200406,9930000
+546,This Is Spinal Tap,1984,82,"Comedy, Music            ",7.9,92,139628,4740000
+547,A Christmas Story,1983,93,"Comedy, Family            ",7.9,77,147395,20610000
+548,E.T. the Extra-Terrestrial,1982,115,"Adventure, Family, Sci-Fi            ",7.9,91,405820,435110000
+550,The Blues Brothers,1980,133,"Action, Adventure, Comedy            ",7.9,60,198700,57230000
+551,Manhattan,1979,96,"Comedy, Drama, Romance            ",7.9,83,140159,45700000
+552,All the President's Men,1976,138,"Drama, History, Thriller            ",7.9,84,115438,70600000
+555,Patton,1970,172,"Biography, Drama, War            ",7.9,91,102123,61700000
+556,Il conformista,1970,113,Drama            ,7.9,100,30578,540000
+557,Le cercle rouge,1970,140,"Crime, Drama, Thriller            ",7.9,91,25537,370000
+558,The Wild Bunch,1969,145,"Action, Adventure, Western            ",7.9,97,84667,12060000
+560,In the Heat of the Night,1967,110,"Drama, Mystery, Thriller            ",7.9,75,76435,24380000
+562,Doctor Zhivago,1965,197,"Drama, Romance, War            ",7.9,69,76615,111720000
+563,Per un pugno di dollari,1964,99,"Action, Drama, Western            ",7.9,65,216607,14500000
+564,Charade,1963,113,"Comedy, Mystery, Romance            ",7.9,83,77473,13470000
+567,Spartacus,1960,197,"Adventure, Biography, Drama            ",7.9,87,134779,30000000
+569,Cat on a Hot Tin Roof,1958,108,Drama            ,7.9,84,49615,17570000
+570,Ascenseur pour l'échafaud,1958,91,"Crime, Drama, Thriller            ",7.9,94,25722,110000
+574,A Streetcar Named Desire,1951,122,Drama            ,7.9,97,108152,8000000
+575,Strangers on a Train,1951,101,"Crime, Drama, Film-Noir            ",7.9,88,133760,7630000
+579,Miracle on ,1947,96,"Comedy, Drama, Family            ",7.9,88,47720,2650000
+580,Notorious,1946,102,"Drama, Film-Noir, Romance            ",7.9,100,101132,10460000
+581,The Big Sleep,1946,114,"Crime, Film-Noir, Mystery            ",7.9,86,85792,6540000
+582,La belle et la bête,1946,96,"Drama, Fantasy, Romance            ",7.9,92,26515,300000
+590,The Adventures of Robin Hood,1938,102,"Action, Adventure, Romance            ",7.9,97,51113,3980000
+592,King Kong,1933,100,"Adventure, Horror, Sci-Fi            ",7.9,90,85466,10000000
+594,The Gentlemen,2019,113,"Action, Comedy, Crime            ",7.8,51,330306,36470000
+596,Call Me by Your Name,2017,132,"Drama, Romance            ",7.8,93,266917,18100000
+597,"I, Daniel Blake",2016,100,Drama            ,7.8,78,60043,260000
+598,Isle of Dogs,2018,101,"Animation, Adventure, Comedy            ",7.8,82,167121,32020000
+599,Dunkirk,2017,106,"Action, Drama, History            ",7.8,94,647208,188370000
+600,Hidden Figures,2016,127,"Biography, Drama, History            ",7.8,74,227478,169610000
+601,Hunt for the Wilderpeople,2016,101,"Adventure, Comedy, Drama            ",7.8,81,130138,5200000
+602,Paddington ,2017,103,"Adventure, Comedy, Family            ",7.8,88,77363,40440000
+603,Manchester by the Sea,2016,137,Drama            ,7.8,96,279228,47700000
+604,Under sandet,2015,100,"Drama, History, War            ",7.8,75,41243,440000
+605,Rogue One,2016,133,"Action, Adventure, Sci-Fi            ",7.8,65,622134,532179999
+606,Captain Fantastic,2016,118,"Comedy, Drama            ",7.8,72,217733,5880000
+607,Captain America: Civil War,2016,147,"Action, Adventure, Sci-Fi            ",7.8,75,774917,408080000
+608,The Hateful Eight,2015,168,"Crime, Drama, Mystery            ",7.8,68,590879,54120000
+609,Little Women,2019,135,"Drama, Romance            ",7.8,91,199389,108100000
+610,Loving Vincent,2017,94,"Animation, Biography, Crime            ",7.8,62,57887,6740000
+612,Nightcrawler,2014,117,"Crime, Drama, Thriller            ",7.8,76,538040,32380000
+613,Star Wars: Episode VII - The Force Awakens,2015,138,"Action, Adventure, Sci-Fi            ",7.8,80,922440,936660000
+614,The Lunchbox,2013,104,"Drama, Romance            ",7.8,76,56225,4230000
+616,Big Hero ,2014,102,"Animation, Action, Adventure            ",7.8,74,457445,222530000
+617,About TimeI) ,2013,123,"Comedy, Drama, Fantasy            ",7.8,55,345474,15320000
+619,La migliore offerta,2013,131,"Crime, Drama, Mystery            ",7.8,49,118949,90000
+620,Captain America: The Winter Soldier,2014,136,"Action, Adventure, Sci-Fi            ",7.8,70,834786,259769999
+621,Bir Zamanlar Anadolu'da,2011,157,"Crime, Drama            ",7.8,82,46414,140000
+622,Moonrise Kingdom,2012,94,"Comedy, Drama, Romance            ",7.8,84,348118,45510000
+623,How to Train Your Dragon ,2014,102,"Animation, Action, Adventure            ",7.8,77,333386,177000000
+624,The Big Short,2015,130,"Biography, Comedy, Drama            ",7.8,81,425872,70260000
+625,Ang-ma-reul bo-at-da,2010,144,"Action, Crime, Drama            ",7.8,67,129363,130000
+626,The Girl with the Dragon Tattoo,2011,158,"Crime, Drama, Mystery            ",7.8,71,460734,102520000
+627,Captain Phillips,2013,134,"Action, Biography, Crime            ",7.8,82,457155,107100000
+628,Straight Outta Compton,2015,147,"Biography, Drama, History            ",7.8,72,201058,161200000
+629,The Irishman,2019,209,"Biography, Crime, Drama            ",7.8,94,381664,7000000
+630,The Social Network,2010,120,"Biography, Drama            ",7.8,95,695126,96960000
+631,Un prophète,2009,155,"Crime, Drama            ",7.8,90,98560,2080000
+633,Madeo,2009,129,"Crime, Drama, Mystery            ",7.8,79,63943,550000
+635,Moon,2009,97,"Drama, Mystery, Sci-Fi            ",7.8,67,357750,5010000
+636,The Hobbit: The Desolation of Smaug,2013,161,"Adventure, Fantasy            ",7.8,66,654929,258370000
+637,Das weiße Band - Eine deutsche Kindergeschichte,2009,144,"Drama, Mystery, Thriller            ",7.8,82,73653,2220000
+638,Män som hatar kvinnor,2009,152,"Crime, Drama, Mystery            ",7.8,76,216735,10100000
+639,Skyfall,2012,143,"Action, Adventure, Thriller            ",7.8,81,692651,304360000
+641,The FighterI) ,2010,116,"Action, Biography, Drama            ",7.8,79,365829,93620000
+642,TakenI) ,2008,90,"Action, Crime, Thriller            ",7.8,51,600049,145000000
+643,OnceI) ,2007,86,"Drama, Music, Romance            ",7.8,88,116630,9440000
+644,The Hobbit: An Unexpected Journey,2012,169,"Adventure, Fantasy            ",7.8,58,817150,303000000
+645,Changeling,2008,141,"Biography, Crime, Drama            ",7.8,63,255122,35740000
+646,Atonement,2007,123,"Drama, Mystery, Romance            ",7.8,85,276788,50930000
+647,DriveI) ,2011,100,"Action, Drama            ",7.8,78,631659,35060000
+648,American Gangster,2007,157,"Biography, Crime, Drama            ",7.8,76,424561,130160000
+649,Avatar,2009,162,"Action, Adventure, Fantasy            ",7.8,83,1220713,760510000
+650,Mr. Nobody,2009,141,"Drama, Fantasy, Romance            ",7.8,63,232549,0
+651,Apocalypto,2006,139,"Action, Adventure, Drama            ",7.8,68,311886,50870000
+652,The FallI) ,2006,117,"Adventure, Drama, Fantasy            ",7.8,64,112353,2280000
+653,Little Miss Sunshine,2006,101,"Comedy, Drama            ",7.8,80,477913,59890000
+654,Hot Fuzz,2007,121,"Action, Comedy, Mystery            ",7.8,81,502543,23640000
+655,The Curious Case of Benjamin Button,2008,166,"Drama, Fantasy, Romance            ",7.8,70,645069,127510000
+656,Veer-Zaara,2004,192,"Drama, Family, Musical            ",7.8,67,53089,2920000
+657,Pride & Prejudice,2005,129,"Drama, Romance            ",7.8,82,293731,38410000
+658,The World's Fastest Indian,2005,127,"Biography, Drama, Sport            ",7.8,68,55119,5130000
+659,Tôkyô goddofâzâzu,2003,90,"Animation, Adventure, Comedy            ",7.8,73,40122,130000
+660,Serenity,2005,119,"Action, Adventure, Sci-Fi            ",7.8,74,295760,25510000
+661,CrashI) ,2004,112,"Crime, Drama, Thriller            ",7.8,66,435814,54580000
+662,Les choristes,2004,97,"Comedy, Drama, Music            ",7.8,56,62225,3640000
+663,Walk the Line,2005,136,"Biography, Drama, Music            ",7.8,72,250551,119520000
+664,The Notebook,2004,123,"Drama, Romance            ",7.8,53,567607,81000000
+665,The Last Samurai,2003,154,"Action, Drama            ",7.8,55,438190,111110000
+666,Diarios de motocicleta,2004,126,"Adventure, Biography, Drama            ",7.8,75,101341,16760000
+667,Lilja ,2002,109,"Crime, Drama            ",7.8,82,45807,180000
+668,Sennen joyû,2001,87,"Animation, Drama, Fantasy            ",7.8,70,28095,190000
+669,Cowboy Bebop: Tengoku no tobira,2001,115,"Animation, Action, Crime            ",7.8,61,48790,1000000
+671,Remember the Titans,2000,113,"Biography, Drama, Sport            ",7.8,48,214817,115650000
+672,Todo sobre mi madre,1999,101,Drama            ,7.8,87,96792,8260000
+673,Cast Away,2000,143,"Adventure, Drama, Romance            ",7.8,73,586191,233630000
+674,The Insider,1999,157,"Biography, Drama, Thriller            ",7.8,84,171149,28970000
+675,October Sky,1999,108,"Biography, Drama, Family            ",7.8,71,90881,32479999
+676,Being John Malkovich,1999,113,"Comedy, Drama, Fantasy            ",7.8,90,334150,22860000
+677,Gattaca,1997,106,"Drama, Sci-Fi, Thriller            ",7.8,64,302977,12340000
+679,Breaking the Waves,1996,159,Drama            ,7.8,76,67111,4040000
+680,Ed Wood,1994,127,"Biography, Comedy, Drama            ",7.8,70,176121,5890000
+681,Tombstone,1993,130,"Biography, Drama, History            ",7.8,50,148434,56510000
+682,The Sandlot,1993,101,"Comedy, Drama, Family            ",7.8,55,91969,32420000
+683,The Remains of the Day,1993,134,"Drama, Romance            ",7.8,86,74290,22950000
+685,The Fugitive,1993,130,"Action, Crime, Drama            ",7.8,87,293637,183880000
+686,A Bronx Tale,1993,121,"Crime, Drama            ",7.8,80,141526,17270000
+687,Batman: Mask of the Phantasm,1993,76,"Animation, Action, Adventure            ",7.8,65,50982,5620000
+688,Boyz n the Hood,1991,112,"Crime, Drama            ",7.8,76,140217,57500000
+689,Misery,1990,107,"Drama, Thriller            ",7.8,75,209185,61280000
+690,Awakenings,1990,121,"Biography, Drama            ",7.8,74,140696,52100000
+692,Glory,1989,122,"Biography, Drama, History            ",7.8,78,134836,26830000
+694,Crimes and Misdemeanors,1989,104,"Comedy, Drama            ",7.8,77,58097,18250000
+695,Back to the Future Part II,1989,108,"Adventure, Comedy, Sci-Fi            ",7.8,57,526960,118500000
+696,Mississippi Burning,1988,128,"Crime, Drama, History            ",7.8,65,100717,34600000
+697,Predator,1987,107,"Action, Adventure, Horror            ",7.8,46,419316,59740000
+698,Ferris Bueller's Day Off,1986,103,Comedy            ,7.8,61,355415,70140000
+699,The Breakfast Club,1985,97,"Comedy, Drama            ",7.8,66,394683,45880000
